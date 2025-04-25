@@ -1,0 +1,3109 @@
+[
+  {
+    "title": "Mì Cay",
+    "author": "YummyKitchen",
+    "cook_time": "45 phút",
+    "servings": "2 người",
+    "category": "Món chính",
+    "image": "../ảnh/micay.jpg",
+    "description": "Mì cay là món ăn hấp dẫn với vị cay nồng đặc trưng, kết hợp giữa mì, hải sản, xúc xích và rau củ, thích hợp cho những ngày se lạnh.",
+    "ingredients": [
+      "200g mì Hàn Quốc (mì cay)",
+      "100g tôm tươi",
+      "100g mực",
+      "2 cái xúc xích",
+      "1/2 củ hành tây",
+      "1/2 quả ớt chuông đỏ",
+      "1/2 quả ớt chuông xanh",
+      "1 cây hành lá",
+      "2 muỗng canh tương ớt Hàn Quốc (gochujang)",
+      "1 muỗng cà phê ớt bột Hàn Quốc",
+      "1 muỗng canh dầu mè",
+      "2 tép tỏi băm",
+      "800ml nước dùng gà hoặc nước lọc",
+      "Gia vị: muối, tiêu, nước mắm"
+    ],
+    "instructions": [
+      "Sơ chế tôm, mực sạch sẽ. Xúc xích cắt lát chéo. Hành tây, ớt chuông, hành lá thái lát.",
+      "Phi thơm tỏi với dầu mè, cho tương ớt Hàn Quốc và ớt bột vào đảo đều.",
+      "Đổ nước dùng vào nồi, nêm gia vị vừa ăn rồi đun sôi.",
+      "Cho hải sản và xúc xích vào nấu khoảng 5 phút.",
+      "Thêm mì, rau củ vào, nấu thêm 3-5 phút cho mì chín.",
+      "Cho hành lá vào, tắt bếp và dọn ra tô khi còn nóng."
+    ],
+    "nutrition": {
+      "calories": 650,
+      "protein": 30,
+      "carbs": 70,
+      "fat": 25
+    },
+    "video": "https://www.youtube.com/watch?v=ScTe06kASUs&t=23s",
+    "id": 1
+  }
+  ,
+  {
+    "title": "Bún Bò Huế",
+    "author": "YummyKitchen",
+    "cook_time": "90 phút",
+    "servings": "4 người",
+    "category": "Món chính",
+    "image": "../ảnh/bunbo.jpg",
+    "description": "Bún bò Huế là món đặc sản miền Trung với nước dùng đậm đà, thơm mùi sả và cay nhẹ, ăn kèm giò heo và chả Huế.",
+    "ingredients": [
+      "500g bắp bò",
+      "1 cái giò heo",
+      "200g chả Huế",
+      "1 cây sả",
+      "1 củ hành tím",
+      "1 muỗng canh mắm ruốc Huế",
+      "2 muỗng canh dầu điều",
+      "1.5 lít nước",
+      "Gia vị: muối, đường, nước mắm"
+    ],
+    "instructions": [
+      "Rửa sạch thịt bò, giò heo và luộc sơ.",
+      "Phi hành tím, sả, cho mắm ruốc vào xào thơm.",
+      "Cho nước, thịt, giò heo vào hầm 60 phút.",
+      "Nêm nước dùng với dầu điều và nước mắm.",
+      "Luộc bún, xếp vào tô với thịt, chan nước dùng.",
+      "Thêm rau sống và chanh ớt khi ăn."
+    ],
+    "nutrition": {
+      "calories": 720,
+      "protein": 40,
+      "carbs": 65,
+      "fat": 30
+    },
+    "video": "https://www.youtube.com/watch?v=qQlSVAeZzAs",
+    "id": 2
+  }
+  ,
+  {
+    "title": "Phở Bò",
+    "author": "YummyKitchen",
+    "cook_time": "90 phút",
+    "servings": "2 người",
+    "category": "Món chính",
+    "image": "../ảnh/phobo.jpg",
+    "description": "Phở bò là món ăn truyền thống của Việt Nam với nước dùng thanh ngọt từ xương bò, kết hợp với bánh phở và thịt bò thái mỏng.",
+    "ingredients": [
+      "300g xương bò",
+      "200g thịt bò tái (thăn, bắp)",
+      "200g bánh phở tươi",
+      "1 củ hành tây",
+      "1 nhánh gừng",
+      "2 hoa hồi, 1 thanh quế",
+      "1 muỗng cà phê muối",
+      "1 muỗng canh nước mắm",
+      "Rau ăn kèm: hành lá, rau mùi, giá đỗ, chanh, ớt"
+    ],
+    "instructions": [
+      "Nướng hành tây và gừng cho thơm, rửa sạch.",
+      "Hầm xương bò với hành, gừng, hoa hồi, quế trong 60 phút.",
+      "Chần thịt bò tái và bánh phở.",
+      "Chan nước dùng lên phở và thịt, thêm rau sống."
+    ],
+    "nutrition": {
+      "calories": 640,
+      "protein": 38,
+      "carbs": 60,
+      "fat": 25
+    },
+    "video": "https://www.youtube.com/watch?v=c9GfHgMk1ac",
+    "id": 3
+  }
+  ,
+  {
+    "title": "Chè Ba Màu",
+    "author": "YummyKitchen",
+    "cook_time": "45 phút",
+    "servings": "2 người",
+    "category": "Tráng miệng",
+    "image": "../ảnh/chebamau.jpg",
+    "description": "Chè ba màu là món tráng miệng mát lạnh gồm đậu đỏ, đậu xanh, thạch lá dứa và nước cốt dừa béo ngậy.",
+    "ingredients": [
+      "100g đậu đỏ",
+      "100g đậu xanh cà vỏ",
+      "100g thạch lá dứa",
+      "200ml nước cốt dừa",
+      "50g đường",
+      "Đá bào"
+    ],
+    "instructions": [
+      "Luộc chín đậu đỏ và đậu xanh, nấu với ít đường.",
+      "Thạch lá dứa cắt sợi.",
+      "Cho lần lượt các lớp vào ly: đậu đỏ, đậu xanh, thạch, nước cốt dừa và đá."
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein": 12,
+      "carbs": 60,
+      "fat": 10
+    },
+    "video": "https://www.youtube.com/watch?v=S-xBww-JRKA",
+    "id": 4
+  }
+  ,
+    {
+      "title": "Chả Giò (Nem Rán)",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "../ảnh/chagio.jpg",
+      "description": "Chả giò là món ăn quen thuộc với lớp vỏ giòn rụm, nhân thịt, tôm, rau củ ăn kèm bún và nước chấm.",
+      "ingredients": [
+        "100g thịt heo xay",
+        "50g tôm băm",
+        "30g miến dong",
+        "1 củ cà rốt, 1 củ hành tím",
+        "8 bánh tráng cuốn chả giò",
+        "Nước mắm pha chua ngọt"
+      ],
+      "instructions": [
+        "Ngâm miến, băm nhỏ các nguyên liệu, trộn đều.",
+        "Cuốn nhân vào bánh tráng, chiên vàng giòn.",
+        "Dọn kèm rau sống, nước chấm."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 30,
+        "carbs": 35,
+        "fat": 28
+      },
+      "video": "https://www.youtube.com/watch?v=YsMFtACQJaY",
+      "id": 5
+    }
+    ,
+    {
+      "title": "Gỏi Cuốn Tôm Thịt",
+      "author": "YummyKitchen",
+      "cook_time": "30 phút",
+      "servings": "2 người",
+      "category": "Khai vị",
+      "image": "../ảnh/goicuon.jpg",
+      "description": "Gỏi cuốn là món ăn thanh mát gồm tôm, thịt, bún, rau sống cuộn trong bánh tráng, chấm cùng nước mắm chua ngọt.",
+      "ingredients": [
+        "8 con tôm",
+        "100g thịt ba chỉ luộc",
+        "100g bún tươi",
+        "8 bánh tráng cuốn",
+        "Rau sống: xà lách, húng quế, rau thơm",
+        "Nước chấm: nước mắm pha, tương đậu phộng"
+      ],
+      "instructions": [
+        "Luộc tôm, thịt, thái lát mỏng.",
+        "Trải bánh tráng, xếp rau, bún, thịt, tôm rồi cuộn lại.",
+        "Pha nước mắm chua ngọt hoặc tương đậu phộng để chấm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 28,
+        "carbs": 30,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/watch?v=LJ_3BeqH63w",
+      "id": 6
+    },
+    {
+      "title": "Bún Riêu Chay",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chay",
+      "image": "../ảnh/bunrieuchay.jpg",
+      "description": "Bún riêu chay thanh đạm với đậu hũ, cà chua, nước dùng rau củ và riêu nấm thơm ngon.",
+      "ingredients": [
+        "100g đậu hũ trắng",
+        "2 quả cà chua",
+        "100g nấm rơm",
+        "1 muỗng canh mắm nêm chay",
+        "1 lít nước rau củ",
+        "100g bún tươi"
+      ],
+      "instructions": [
+        "Xào cà chua, đậu hũ, nấm với mắm chay.",
+        "Cho nước rau củ vào nấu 15 phút.",
+        "Chan nước dùng vào bún, thêm rau sống."
+      ],
+      "nutrition": {
+        "calories": 280,
+        "protein": 14,
+        "carbs": 40,
+        "fat": 8
+      },
+      "video": "https://www.youtube.com/watch?v=wOsJSAkxo1U",
+      "id": 7
+    }
+    
+    ,
+    {
+      "title": "Cơm Tấm Sườn Bì Chả",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "2 người",
+      "category": "Món cơm",
+      "image": "../ảnh/comtam.jpg",
+      "description": "Cơm tấm với sườn nướng, bì heo, chả trứng – món ăn sáng đặc trưng của người Sài Gòn.",
+      "ingredients": [
+        "2 miếng sườn heo",
+        "100g bì heo trộn thính",
+        "1 trứng + 50g thịt bằm",
+        "1 chén cơm tấm",
+        "Nước mắm pha, dưa leo, đồ chua"
+      ],
+      "instructions": [
+        "Ướp sườn nướng thơm.",
+        "Trộn bì heo với thính, chả hấp chín.",
+        "Dọn cơm tấm ra dĩa với sườn, bì, chả và nước mắm."
+      ],
+      "nutrition": {
+        "calories": 680,
+        "protein": 36,
+        "carbs": 58,
+        "fat": 32
+      },
+      "video": "https://www.youtube.com/watch?v=I7IO_xMc4yA",
+      "id": 8
+    }
+    ,
+    {
+      "title": "Bánh Canh Cua",
+      "author": "YummyKitchen",
+      "cook_time": "40 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "../ảnh/banhcanhcua.jpg",
+      "description": "Bánh canh cua với nước lèo sánh đậm, thịt cua ngọt tự nhiên, rất hấp dẫn.",
+      "ingredients": [
+        "200g thịt cua",
+        "100g chả cua",
+        "200g bánh canh bột gạo",
+        "1 quả trứng cút luộc",
+        "Gia vị: nước mắm, muối, tiêu"
+      ],
+      "instructions": [
+        "Nấu nước dùng từ xương hoặc chả cua.",
+        "Thêm thịt cua vào, nêm gia vị.",
+        "Luộc bánh canh, cho vào tô, chan nước dùng."
+      ],
+      "nutrition": {
+        "calories": 550,
+        "protein": 35,
+        "carbs": 45,
+        "fat": 20
+      },
+      "video": "https://www.youtube.com/watch?v=nsjBAOgjUmw",
+      "id": 9
+    }
+    ,
+    {
+      "title": "Cơm Hến",
+      "author": "YummyKitchen",
+      "cook_time": "30 phút",
+      "servings": "2 người",
+      "category": "Món cơm",
+      "image": "../ảnh/comhen.jpg",
+      "description": "Cơm hến đặc sản Huế với hến xào sả ớt, rau sống và nước hến đậm đà.",
+      "ingredients": [
+        "200g hến luộc",
+        "1 chén cơm nguội",
+        "Sả, ớt, hành phi",
+        "Rau sống các loại",
+        "Gia vị: nước mắm, tiêu"
+      ],
+      "instructions": [
+        "Xào hến với sả ớt, nêm gia vị.",
+        "Bày cơm, hến, rau sống vào tô.",
+        "Chan nước hến khi ăn."
+      ],
+      "nutrition": {
+        "calories": 480,
+        "protein": 28,
+        "carbs": 55,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/watch?v=-0ACbNVOWuk",
+      "id": 10
+    }
+    ,
+    {
+      "title": "Đậu Hũ Sốt Cà Chay",
+      "author": "YummyKitchen",
+      "cook_time": "20 phút",
+      "servings": "2 người",
+      "category": "Món chay",
+      "image": "../ảnh/dauhusotca.jpg",
+      "description": "Món chay thanh đạm từ đậu hũ và sốt cà chua, ăn cùng cơm rất ngon miệng.",
+      "ingredients": [
+        "2 miếng đậu hũ",
+        "2 quả cà chua",
+        "Hành lá, hành tím",
+        "Gia vị: nước mắm chay, tiêu"
+      ],
+      "instructions": [
+        "Chiên đậu hũ vàng đều.",
+        "Xào cà chua với hành tím, cho đậu vào sốt.",
+        "Nêm gia vị, rắc hành lá."
+      ],
+      "nutrition": {
+        "calories": 250,
+        "protein": 12,
+        "carbs": 10,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/watch?v=_6Q43mT5TVk",
+      "id": 11
+    }
+    ,
+    {
+      "title": "Canh Chua Cá Lóc",
+      "author": "YummyKitchen",
+      "cook_time": "35 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "../ảnh/canhchuacaloc.jpg",
+      "description": "Món canh chua đặc trưng Nam Bộ với cá lóc, bạc hà, cà chua, và me.",
+      "ingredients": [
+        "300g cá lóc cắt khúc",
+        "1 trái cà chua",
+        "100g bạc hà, giá, me",
+        "Gia vị: nước mắm, đường, tiêu"
+      ],
+      "instructions": [
+        "Nấu nước sôi, cho me vào dằm lấy nước chua.",
+        "Cho cá vào nấu chín, thêm rau và gia vị.",
+        "Ăn nóng với cơm trắng."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "protein": 35,
+        "carbs": 10,
+        "fat": 25
+      },
+      "video": "https://www.youtube.com/watch?v=AQoI-o35EMA",
+      "id": 12
+    }
+    ,
+    {
+      "title": "Bánh Flan",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Tráng miệng",
+      "image": "../ảnh/banhflan.jpg",
+      "description": "Bánh flan mềm mịn, béo ngậy, kết hợp vị caramel đắng nhẹ hấp dẫn.",
+      "ingredients": [
+        "2 quả trứng gà",
+        "200ml sữa tươi",
+        "50g đường",
+        "1/2 ống vani"
+      ],
+      "instructions": [
+        "Thắng caramel và đổ vào khuôn.",
+        "Đánh trứng với sữa và đường, rây mịn.",
+        "Đổ vào khuôn, hấp cách thủy 25 phút."
+      ],
+      "nutrition": {
+        "calories": 260,
+        "protein": 8,
+        "carbs": 25,
+        "fat": 14
+      },
+      "video": "https://www.youtube.com/watch?v=xBCp5-bzfZQ",
+      "id": 13
+    }
+    ,
+    {
+      "title": "Phở Gà",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "../ảnh/phoga.jpg",
+      "description": "Phở gà với nước dùng thanh ngọt từ xương gà, sợi phở mềm và thịt gà thơm ngon.",
+      "ingredients": [
+        "300g xương và thịt gà",
+        "200g bánh phở",
+        "Gừng, hành nướng",
+        "Gia vị: muối, nước mắm, tiêu"
+      ],
+      "instructions": [
+        "Ninh xương gà lấy nước dùng.",
+        "Luộc thịt gà, xé sợi.",
+        "Trụng phở, chan nước dùng, rắc hành ngò."
+      ],
+      "nutrition": {
+        "calories": 470,
+        "protein": 30,
+        "carbs": 45,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/watch?v=Ildv1ncLJig",
+      "id": 14
+    }
+    ,
+    {
+      "title": "Chè Bắp",
+      "author": "YummyKitchen",
+      "cook_time": "35 phút",
+      "servings": "2 người",
+      "category": "Tráng miệng",
+      "image": "../ảnh/chebap.jpg",
+      "description": "Chè bắp ngọt thanh, dẻo thơm, thêm nước cốt dừa béo ngậy.",
+      "ingredients": [
+        "2 trái bắp nếp",
+        "50g đường",
+        "1 muỗng bột năng",
+        "100ml nước cốt dừa",
+        "1/4 muỗng muối"
+      ],
+      "instructions": [
+        "Luộc bắp, lấy hạt và nước luộc.",
+        "Cho đường, bột năng vào nấu sệt.",
+        "Chan nước cốt dừa lên trên khi ăn."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "protein": 5,
+        "carbs": 55,
+        "fat": 10
+      },
+      "video": "https://www.youtube.com/watch?v=7SwM_uJRWwo",
+      "id": 15
+    }
+    ,
+    {
+      "title": "Cơm Gà Hội An",
+      "author": "YummyKitchen",
+      "cook_time": "35 phút",
+      "servings": "2 người",
+      "category": "Món cơm",
+      "image": "../ảnh/comgahoian.jpg",
+      "description": "Cơm gà Hội An với thịt gà xé, cơm nấu nước luộc gà thơm ngon đậm đà.",
+      "ingredients": [
+        "300g thịt gà luộc",
+        "1 chén gạo tẻ",
+        "Hành tây, rau răm",
+        "Gia vị: muối, tiêu, nước mắm"
+      ],
+      "instructions": [
+        "Luộc gà, giữ lại nước dùng nấu cơm.",
+        "Xé gà, trộn với hành tây, rau răm.",
+        "Dọn cơm ra đĩa, thêm gà trộn lên trên."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 32,
+        "carbs": 45,
+        "fat": 20
+      },
+      "video": "https://www.youtube.com/watch?v=fz3tdHEVTnE",
+      "id": 16
+    }
+    ,
+    {
+      "title": "Phở Bò 17",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-17.jpg",
+      "description": "Phở bò là món số 17, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 17
+    },
+    {
+      "title": "Phở Bò 18",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-18.jpg",
+      "description": "Phở bò là món số 18, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 18
+    },
+    {
+      "title": "Phở Bò 19",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-19.jpg",
+      "description": "Phở bò là món số 19, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 19
+    },
+    {
+      "title": "Cơm Tấm 20",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-20.jpg",
+      "description": "Cơm tấm là món số 20, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 20
+    },
+    {
+      "title": "Phở Bò 21",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-21.jpg",
+      "description": "Phở bò là món số 21, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 21
+    },
+    {
+      "title": "Phở Bò 22",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-22.jpg",
+      "description": "Phở bò là món số 22, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 22
+    },
+    {
+      "title": "Phở Bò 23",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-23.jpg",
+      "description": "Phở bò là món số 23, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 23
+    },
+    {
+      "title": "Cơm Tấm 24",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-24.jpg",
+      "description": "Cơm tấm là món số 24, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 24
+    },
+    {
+      "title": "Phở Bò 25",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-25.jpg",
+      "description": "Phở bò là món số 25, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 25
+    },
+    {
+      "title": "Cơm Tấm 26",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-26.jpg",
+      "description": "Cơm tấm là món số 26, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 26
+    },
+    {
+      "title": "Cơm Tấm 27",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-27.jpg",
+      "description": "Cơm tấm là món số 27, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 27
+    },
+    {
+      "title": "Cơm Tấm 28",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-28.jpg",
+      "description": "Cơm tấm là món số 28, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 28
+    },
+    {
+      "title": "Cơm Tấm 29",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-29.jpg",
+      "description": "Cơm tấm là món số 29, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 29
+    },
+    {
+      "title": "Cơm Tấm 30",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-30.jpg",
+      "description": "Cơm tấm là món số 30, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 30
+    },
+    {
+      "title": "Phở Bò 31",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-31.jpg",
+      "description": "Phở bò là món số 31, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 31
+    },
+    {
+      "title": "Cơm Tấm 32",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-32.jpg",
+      "description": "Cơm tấm là món số 32, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 32
+    },
+    {
+      "title": "Phở Bò 33",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-33.jpg",
+      "description": "Phở bò là món số 33, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 33
+    },
+    {
+      "title": "Phở Bò 34",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-34.jpg",
+      "description": "Phở bò là món số 34, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 34
+    },
+    {
+      "title": "Cơm Tấm 35",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-35.jpg",
+      "description": "Cơm tấm là món số 35, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 35
+    },
+    {
+      "title": "Cơm Tấm 36",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-36.jpg",
+      "description": "Cơm tấm là món số 36, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 36
+    },
+    {
+      "title": "Cơm Tấm 37",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-37.jpg",
+      "description": "Cơm tấm là món số 37, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 37
+    },
+    {
+      "title": "Cơm Tấm 38",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-38.jpg",
+      "description": "Cơm tấm là món số 38, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 38
+    },
+    {
+      "title": "Phở Bò 39",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-39.jpg",
+      "description": "Phở bò là món số 39, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 39
+    },
+    {
+      "title": "Phở Bò 40",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-40.jpg",
+      "description": "Phở bò là món số 40, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 40
+    },
+    {
+      "title": "Phở Bò 41",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-41.jpg",
+      "description": "Phở bò là món số 41, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 41
+    },
+    {
+      "title": "Cơm Tấm 42",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-42.jpg",
+      "description": "Cơm tấm là món số 42, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 42
+    },
+    {
+      "title": "Phở Bò 43",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-43.jpg",
+      "description": "Phở bò là món số 43, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 43
+    },
+    {
+      "title": "Phở Bò 44",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-44.jpg",
+      "description": "Phở bò là món số 44, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 44
+    },
+    {
+      "title": "Cơm Tấm 45",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-45.jpg",
+      "description": "Cơm tấm là món số 45, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 45
+    },
+    {
+      "title": "Phở Bò 46",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-46.jpg",
+      "description": "Phở bò là món số 46, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 46
+    },
+    {
+      "title": "Cơm Tấm 47",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-47.jpg",
+      "description": "Cơm tấm là món số 47, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 47
+    },
+    {
+      "title": "Cơm Tấm 48",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-48.jpg",
+      "description": "Cơm tấm là món số 48, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 48
+    },
+    {
+      "title": "Phở Bò 49",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-49.jpg",
+      "description": "Phở bò là món số 49, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 49
+    },
+    {
+      "title": "Cơm Tấm 50",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-50.jpg",
+      "description": "Cơm tấm là món số 50, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 50
+    },
+    {
+      "title": "Cơm Tấm 51",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-51.jpg",
+      "description": "Cơm tấm là món số 51, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 51
+    },
+    {
+      "title": "Phở Bò 52",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-52.jpg",
+      "description": "Phở bò là món số 52, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 52
+    },
+    {
+      "title": "Cơm Tấm 53",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-53.jpg",
+      "description": "Cơm tấm là món số 53, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 53
+    },
+    {
+      "title": "Phở Bò 54",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-54.jpg",
+      "description": "Phở bò là món số 54, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 54
+    },
+    {
+      "title": "Phở Bò 55",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-55.jpg",
+      "description": "Phở bò là món số 55, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 55
+    },
+    {
+      "title": "Phở Bò 56",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-56.jpg",
+      "description": "Phở bò là món số 56, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 56
+    },
+    {
+      "title": "Phở Bò 57",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-57.jpg",
+      "description": "Phở bò là món số 57, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 57
+    },
+    {
+      "title": "Phở Bò 58",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-58.jpg",
+      "description": "Phở bò là món số 58, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 58
+    },
+    {
+      "title": "Phở Bò 59",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-59.jpg",
+      "description": "Phở bò là món số 59, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 59
+    },
+    {
+      "title": "Cơm Tấm 60",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-60.jpg",
+      "description": "Cơm tấm là món số 60, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 60
+    },
+    {
+      "title": "Cơm Tấm 61",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-61.jpg",
+      "description": "Cơm tấm là món số 61, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 61
+    },
+    {
+      "title": "Cơm Tấm 62",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-62.jpg",
+      "description": "Cơm tấm là món số 62, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 62
+    },
+    {
+      "title": "Phở Bò 63",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-63.jpg",
+      "description": "Phở bò là món số 63, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 63
+    },
+    {
+      "title": "Cơm Tấm 64",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-64.jpg",
+      "description": "Cơm tấm là món số 64, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 64
+    },
+    {
+      "title": "Phở Bò 65",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-65.jpg",
+      "description": "Phở bò là món số 65, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 65
+    },
+    {
+      "title": "Phở Bò 66",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-66.jpg",
+      "description": "Phở bò là món số 66, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 66
+    },
+    {
+      "title": "Cơm Tấm 67",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-67.jpg",
+      "description": "Cơm tấm là món số 67, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 67
+    },
+    {
+      "title": "Cơm Tấm 68",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-68.jpg",
+      "description": "Cơm tấm là món số 68, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 68
+    },
+    {
+      "title": "Phở Bò 69",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-69.jpg",
+      "description": "Phở bò là món số 69, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 69
+    },
+    {
+      "title": "Cơm Tấm 70",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-70.jpg",
+      "description": "Cơm tấm là món số 70, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 70
+    },
+    {
+      "title": "Cơm Tấm 71",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-71.jpg",
+      "description": "Cơm tấm là món số 71, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 71
+    },
+    {
+      "title": "Cơm Tấm 72",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-72.jpg",
+      "description": "Cơm tấm là món số 72, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 72
+    },
+    {
+      "title": "Phở Bò 73",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-73.jpg",
+      "description": "Phở bò là món số 73, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 73
+    },
+    {
+      "title": "Phở Bò 74",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-74.jpg",
+      "description": "Phở bò là món số 74, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 74
+    },
+    {
+      "title": "Phở Bò 75",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-75.jpg",
+      "description": "Phở bò là món số 75, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 75
+    },
+    {
+      "title": "Cơm Tấm 76",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-76.jpg",
+      "description": "Cơm tấm là món số 76, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 76
+    },
+    {
+      "title": "Cơm Tấm 77",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-77.jpg",
+      "description": "Cơm tấm là món số 77, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 77
+    },
+    {
+      "title": "Cơm Tấm 78",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-78.jpg",
+      "description": "Cơm tấm là món số 78, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 78
+    },
+    {
+      "title": "Cơm Tấm 79",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-79.jpg",
+      "description": "Cơm tấm là món số 79, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 79
+    },
+    {
+      "title": "Phở Bò 80",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-80.jpg",
+      "description": "Phở bò là món số 80, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 80
+    },
+    {
+      "title": "Cơm Tấm 81",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-81.jpg",
+      "description": "Cơm tấm là món số 81, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 81
+    },
+    {
+      "title": "Phở Bò 82",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-82.jpg",
+      "description": "Phở bò là món số 82, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 82
+    },
+    {
+      "title": "Cơm Tấm 83",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-83.jpg",
+      "description": "Cơm tấm là món số 83, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 83
+    },
+    {
+      "title": "Phở Bò 84",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-84.jpg",
+      "description": "Phở bò là món số 84, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 84
+    },
+    {
+      "title": "Cơm Tấm 85",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-85.jpg",
+      "description": "Cơm tấm là món số 85, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 85
+    },
+    {
+      "title": "Phở Bò 86",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-86.jpg",
+      "description": "Phở bò là món số 86, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 86
+    },
+    {
+      "title": "Phở Bò 87",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-87.jpg",
+      "description": "Phở bò là món số 87, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 87
+    },
+    {
+      "title": "Phở Bò 88",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-88.jpg",
+      "description": "Phở bò là món số 88, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 88
+    },
+    {
+      "title": "Cơm Tấm 89",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-89.jpg",
+      "description": "Cơm tấm là món số 89, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 89
+    },
+    {
+      "title": "Phở Bò 90",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-90.jpg",
+      "description": "Phở bò là món số 90, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 90
+    },
+    {
+      "title": "Phở Bò 91",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-91.jpg",
+      "description": "Phở bò là món số 91, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 91
+    },
+    {
+      "title": "Cơm Tấm 92",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-92.jpg",
+      "description": "Cơm tấm là món số 92, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 92
+    },
+    {
+      "title": "Cơm Tấm 93",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-93.jpg",
+      "description": "Cơm tấm là món số 93, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 93
+    },
+    {
+      "title": "Cơm Tấm 94",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-94.jpg",
+      "description": "Cơm tấm là món số 94, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 94
+    },
+    {
+      "title": "Cơm Tấm 95",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-95.jpg",
+      "description": "Cơm tấm là món số 95, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 95
+    },
+    {
+      "title": "Phở Bò 96",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-96.jpg",
+      "description": "Phở bò là món số 96, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 96
+    },
+    {
+      "title": "Phở Bò 97",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-97.jpg",
+      "description": "Phở bò là món số 97, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 97
+    },
+    {
+      "title": "Cơm Tấm 98",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-98.jpg",
+      "description": "Cơm tấm là món số 98, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 98
+    },
+    {
+      "title": "Cơm Tấm 99",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "/ảnh/cơm-tấm-99.jpg",
+      "description": "Cơm tấm là món số 99, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+      "ingredients": [
+        "200g gạo tấm",
+        "2 miếng sườn heo",
+        "1 quả trứng gà",
+        "Đồ chua: cà rốt, củ cải",
+        "Nước mắm chua ngọt"
+      ],
+      "instructions": [
+        "Vo gạo và nấu chín bằng nồi cơm điện.",
+        "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+        "Chiên trứng ốp la.",
+        "Trình bày cơm với sườn, trứng và đồ chua.",
+        "Rưới nước mắm lên và thưởng thức."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "protein": 28,
+        "carbs": 60,
+        "fat": 18
+      },
+      "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+      "id": 99
+    },
+    {
+      "title": "Phở Bò 100",
+      "author": "YummyKitchen",
+      "cook_time": "60 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "/ảnh/phở-bò-100.jpg",
+      "description": "Phở bò là món số 100, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+      "ingredients": [
+        "500g xương bò",
+        "300g thịt bò thăn",
+        "Bánh phở",
+        "Hành tây, gừng, quế, hồi, thảo quả",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+        "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+        "Lọc nước dùng, thêm gia vị vừa ăn.",
+        "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+        "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 15
+      },
+      "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+      "id": 100
+    }
+  ]

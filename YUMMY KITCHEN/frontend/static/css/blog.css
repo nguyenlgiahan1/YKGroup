@@ -1,0 +1,19 @@
+body {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .banner {
+    background-color: #fef3c7;
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+  
+  .main-blog {
+    max-width: 1120px;
+    margin: 0 auto;
+    padding: 3rem 1rem;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+  

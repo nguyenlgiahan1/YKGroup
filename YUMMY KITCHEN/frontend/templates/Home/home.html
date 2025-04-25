@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yummy Kitchen</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></link>
+  <link rel="icon" type="image/png" href="../../react-app/src/ảnh/logo_Yummykitchen.jpg"/>
+  <link rel="stylesheet" href="../../static/css/home.css" />
+</head>
+<body class="bg-white text-gray-800">
+  <nav class="flex items-center justify-between py-4 px-8 border-b bg-white relative">
+    <div class="flex items-center gap-x-4">
+      <a href="home.html" class="text-2xl font-bold whitespace-nowrap">
+        Yummy<span class="text-orange-500">Kitchen</span>
+      </a>
+      <div class="relative">
+        <input type="text" class="border rounded-full py-1 px-3 pl-10 focus:outline-none focus:ring-2 focus:ring-orange-500" placeholder="Tìm kiếm...">
+        <i class="fas fa-search absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-500"></i>
+      </div></div>
+    <div class="absolute left-1/2 transform -translate-x-1/2 hidden md:flex space-x-6 items-center text-gray-800 font-medium">
+      <a href="home.html" class="hover:text-orange-500">Trang Chủ</a>
+      <div class="relative group">
+        <button onclick="toggleMenu('subMenuCongThuc')" class="flex items-center space-x-1 hover:text-orange-500 focus:outline-none">
+          <span>Công Thức</span>
+          <img src="https://protectcoyotevalley.org/wp-content/uploads/intense-cache/icons/plugin/font-awesome/angle-right.svg" class="w-3 h-3 mt-1" />
+        </button>
+        <div id="subMenuCongThuc" class="absolute left-0 mt-2 w-64 bg-white shadow-xl border rounded-md p-4 hidden z-10">
+          <ul class="space-y-2">
+            <li><a href="list_tonghop.html" class="block hover:text-orange-500">Món ăn của Bếp</a></li>
+            <li><a href="monan_cuaban.html" class="block hover:text-orange-500">Món ăn của Bạn</a></li>
+          </ul>
+        </div>
+      </div>
+      <a href="blog.html" class="hover:text-orange-500">Blog</a>
+      <a href="contact.html" class="hover:text-orange-500">Liên hệ</a>
+      <a href="#" class="hover:text-orange-500">Về Chúng Tôi</a>
+      <div class="relative group">
+        <button onclick="toggleMenu('subMenuTheLoai')" class="flex items-center space-x-1 hover:text-orange-500 focus:outline-none">
+          <span>Thể loại</span>
+          <img src="https://protectcoyotevalley.org/wp-content/uploads/intense-cache/icons/plugin/font-awesome/angle-right.svg" class="w-3 h-3 mt-1" />
+        </button>
+        <div id="subMenuTheLoai" class="absolute left-0 mt-2 w-64 bg-white shadow-xl border rounded-md p-4 hidden z-10 max-h-96 overflow-y-auto">
+          <ul class="space-y-2">
+            <li><a href="buasang.html" class="block hover:text-orange-500">Bữa Sáng</a></li>
+            <li><a href="buatra.html" class="block hover:text-orange-500">Bữa Trưa</a></li>
+            <li><a href="buatoi.html" class="block hover:text-orange-500">Bữa Tối</a></li>
+            <li><a href="monchay.html" class="block hover:text-orange-500">Món Chay</a></li>
+            <li><a href="monman.html" class="block hover:text-orange-500">Món Mặn</a></li>
+            <li><a href="trangmieng.html" class="block hover:text-orange-500">Tráng Miệng</a></li>
+            <li><a href="monhealthy.html" class="block hover:text-orange-500">Món Healthy</a></li>
+            <li><a href="anvat.html" class="block hover:text-orange-500">Ăn Vặt</a></li>
+            <li><a href="haisan.html" class="block hover:text-orange-500">Hải Sản</a></li>
+            <li><a href="dochien.html" class="block hover:text-orange-500">Đồ Chiên</a></li>
+            <li><a href="monnuong.html" class="block hover:text-orange-500">Món Nướng</a></li>
+            <li><a href="monlau.html" class="block hover:text-orange-500">Món Lẩu</a></li>
+            <li><a href="monhan.html" class="block hover:text-orange-500">Món Hàn</a></li>
+            <li><a href="monnhat.html" class="block hover:text-orange-500">Món Nhật</a></li>
+            <li><a href="monchauau.html" class="block hover:text-orange-500">Món Châu Âu</a></li>
+            <li><a href="nuoc.html" class="block hover:text-orange-500">Nước</a></li>
+            <li><a href="tonghop.html" class="block hover:text-orange-500">Tổng hợp</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="hidden md:flex items-center space-x-4">
+      <div class="flex space-x-4">
+        <a href="#" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
+          <i class="fab fa-facebook-f text-gray-700"></i>
+        </a>
+        <a href="#" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
+          <i class="fab fa-twitter text-gray-700"></i>
+        </a>
+        <a href="#" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
+          <i class="fab fa-instagram text-gray-700"></i>
+        </a>
+      </div>
+      <a href="../DangNhap/login.html" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-gray-700" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M5.121 17.804A9 9 0 0112 15a9 9 0 016.879 2.804M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+        </svg>
+      </a>
+    </div>
+  </nav>
+<section class="relative p-8 bg-orange-200 rounded-xl mx-4 mt-6 shadow-md">
+  <div class="slideshow-container relative overflow-hidden">
+  </div>
+  <a class="prev absolute top-1/2 left-2 transform -translate-y-1/2 text-3xl text-white cursor-pointer" onclick="changeSlide(-1)">&#10094;</a>
+  <a class="next absolute top-1/2 right-2 transform -translate-y-1/2 text-3xl text-white cursor-pointer" onclick="changeSlide(1)">&#10095;</a>
+    <div class="slideshow-container">
+        <div class="slide fade flex flex-col lg:flex-row items-center justify-between">
+            <div class="lg:w-1/2 space-y-6 lg:mr-10">
+                <span class="bg-red-500 text-white text-sm px-4 py-1 rounded-full uppercase font-semibold">Hot</span>
+                <h1 class="text-5xl font-extrabold">Cà Phê Muối Việt Nam</h1>
+                <p class="text-lg mb-4">Cà phê phin truyền thống hòa quyện với chút muối và kem béo – một trải nghiệm vị giác độc đáo.</p>
+                <div class="flex items-center space-x-6 text-md text-gray-700">
+                    <span>⏱ 7–10 phút</span>
+                    <span>👤 Gia Hân</span>
+                    <span>📅 6 April 2025</span>
+                </div>
+                <button class="text-lg bg-black text-white px-6 py-3 rounded hover:bg-gray-800">Xem công thức</button>
+            </div>
+            <div class="lg:w-1/2 mt-6 lg:mt-0">
+                <img src="https://i.pinimg.com/736x/cc/9d/41/cc9d41202afe34f486473c407c3ba05f.jpg" class="rounded-lg shadow-md" alt="Cà phê muối">
+            </div>
+        </div>
+        <div class="slide fade flex flex-col lg:flex-row items-center justify-between">
+            <div class="lg:w-1/2 space-y-6 lg:mr-10">
+                <span class="bg-red-500 text-white text-sm px-4 py-1 rounded-full uppercase font-semibold">Đặc sản</span>
+                <h1 class="text-5xl font-extrabold">Phở Việt Nam</h1>
+                <p class="text-lg mb-4">Phở - Tinh hoa ẩm thực Việt với nước dùng ngọt thanh, bánh phở mềm và thịt bò tái thơm ngon.</p>
+                <div class="flex items-center space-x-6 text-md text-gray-700">
+                    <span>⏱ 45 phút</span>
+                    <span>👤 Văn Đồng</span>
+                    <span>📅 7 April 2025</span>
+                </div>
+                <button class="text-lg bg-black text-white px-6 py-3 rounded hover:bg-gray-800">Xem công thức</button>
+            </div>
+            <div class="lg:w-1/2 mt-6 lg:mt-0">
+                <img src="https://inhat.vn/wp-content/uploads/2022/03/quan-pho-ngon-nhat-da-nang.jpg" class="rounded-lg shadow-md" alt="Phở Việt Nam">
+            </div>
+        </div>
+        <div class="slide fade flex flex-col lg:flex-row items-center justify-between">
+            <div class="lg:w-1/2 space-y-6 lg:mr-10">
+                <span class="bg-red-500 text-white text-sm px-4 py-1 rounded-full uppercase font-semibold">Yêu thích</span>
+                <h1 class="text-5xl font-extrabold">Cơm Tấm Sài Gòn</h1>
+                <p class="text-lg mb-4">Cơm tấm với sườn nướng thơm lừng, chả trứng béo ngậy và nước mắm chua ngọt đặc trưng.</p>
+                <div class="flex items-center space-x-6 text-md text-gray-700">
+                    <span>⏱ 30 phút</span>
+                    <span>👤 Mỹ Quyên</span>
+                    <span>📅 8 April 2025</span>
+                </div>
+                <button class="text-lg bg-black text-white px-6 py-3 rounded hover:bg-gray-800">Xem công thức</button>
+            </div>
+            <div class="lg:w-1/2 mt-6 lg:mt-0">
+                <img src="https://cafefcdn.com/203337114487263232/2022/12/7/photo-9-1670398141900764774990.jpg" class="rounded-lg shadow-md" alt="Cơm Tấm">
+            </div>
+        </div>
+    </div>
+<div class="slide fade flex flex-col lg:flex-row items-center justify-between">
+  <div class="lg:w-1/2 space-y-6 lg:mr-10">
+    <span class="bg-red-500 text-white text-sm px-4 py-1 rounded-full uppercase font-semibold">Đặc sản</span>
+    <h1 class="text-5xl font-extrabold">Bánh Mì Việt Nam</h1>
+    <p class="text-lg mb-4">Ổ bánh mì giòn rụm kẹp pate, thịt nguội, rau sống và nước sốt đậm đà, ăn một lần nhớ mãi.</p>
+    <div class="flex items-center space-x-6 text-md text-gray-700">
+      <span>⏱ 15 phút</span>
+      <span>👤 Anh Bảo</span>
+      <span>📅 9 April 2025</span>
+    </div>
+    <button class="text-lg bg-black text-white px-6 py-3 rounded hover:bg-gray-800">Xem công thức</button>
+  </div>
+  <div class="lg:w-1/2 mt-6 lg:mt-0">
+    <img src="https://luxuo.vn/wp-content/uploads/2024/03/banhmivietnam.jpeg" class="rounded-lg shadow-md" alt="Bánh mì Việt Nam">
+  </div>
+</div>
+<div class="slide fade flex flex-col lg:flex-row items-center justify-between">
+  <div class="lg:w-1/2 space-y-6 lg:mr-10">
+    <span class="bg-red-500 text-white text-sm px-4 py-1 rounded-full uppercase font-semibold">Đặc sản Miền Trung</span>
+    <h1 class="text-5xl font-extrabold">Bún Bò Huế</h1>
+    <p class="text-lg mb-4">Món ăn đậm đà vị cay, nước dùng ngọt xương, sả và mắm ruốc đặc trưng của xứ Huế.</p>
+    <div class="flex items-center space-x-6 text-md text-gray-700">
+      <span>⏱ 50 phút</span>
+      <span>👤 Mệ Sương</span>
+      <span>📅 10 April 2025</span>
+    </div>
+    <button class="text-lg bg-black text-white px-6 py-3 rounded hover:bg-gray-800">Xem công thức</button>
+  </div>
+  <div class="lg:w-1/2 mt-6 lg:mt-0">
+    <img src="https://hoasenfoods.vn/wp-content/uploads/2024/01/bun-bo-hue.jpg" class="rounded-lg shadow-md" alt="Bún Bò Huế">
+  </div>
+</div>
+<div class="slide fade flex flex-col lg:flex-row items-center justify-between">
+  <div class="lg:w-1/2 space-y-6 lg:mr-10">
+    <span class="bg-red-500 text-white text-sm px-4 py-1 rounded-full uppercase font-semibold">Thanh mát</span>
+    <h1 class="text-5xl font-extrabold">Gỏi Cuốn Tôm Thịt</h1>
+    <p class="text-lg mb-4">Cuốn rau sống, bún, thịt, tôm trong bánh tráng ăn kèm nước chấm chua ngọt thơm ngon.</p>
+    <div class="flex items-center space-x-6 text-md text-gray-700">
+      <span>⏱ 20 phút</span>
+      <span>👤 Thanh Tuyền</span>
+      <span>📅 11 April 2025</span>
+    </div>
+    <button class="text-lg bg-black text-white px-6 py-3 rounded hover:bg-gray-800">Xem công thức</button>
+  </div>
+  <div class="lg:w-1/2 mt-6 lg:mt-0">
+    <img src="https://cdn.tgdd.vn/2021/08/CookProduct/z262692910475431f8fbc533ea57bff69e5e86a005e04a1200-1200x676.jpg" class="rounded-lg shadow-md" alt="Gỏi cuốn">
+  </div>
+</div>
+<div class="slide fade flex flex-col lg:flex-row items-center justify-between">
+  <div class="lg:w-1/2 space-y-6 lg:mr-10">
+    <span class="bg-red-500 text-white text-sm px-4 py-1 rounded-full uppercase font-semibold">Tráng miệng</span>
+    <h1 class="text-5xl font-extrabold">Chè Ba Màu</h1>
+    <p class="text-lg mb-4">Đậu đỏ, đậu xanh, thạch lá dứa cùng nước cốt dừa thơm béo – món ngọt mát ngày hè.</p>
+    <div class="flex items-center space-x-6 text-md text-gray-700">
+      <span>⏱ 25 phút</span>
+      <span>👤 Bé Na</span>
+      <span>📅 12 April 2025</span>
+    </div>
+    <button class="text-lg bg-black text-white px-6 py-3 rounded hover:bg-gray-800">Xem công thức</button>
+  </div>
+  <div class="lg:w-1/2 mt-6 lg:mt-0">
+    <img src="https://eggyolk.vn/wp-content/uploads/2024/10/che-ba-mau-chiem-vi-tri-11-_691716353401.webp" class="rounded-lg shadow-md" alt="Chè ba màu">
+  </div>
+</div>
+<div class="slide fade flex flex-col lg:flex-row items-center justify-between">
+  <div class="lg:w-1/2 space-y-6 lg:mr-10">
+    <span class="bg-red-500 text-white text-sm px-4 py-1 rounded-full uppercase font-semibold">Miền Nam</span>
+    <h1 class="text-5xl font-extrabold">Bánh Xèo</h1>
+    <p class="text-lg mb-4">Chiếc bánh vàng giòn với nhân tôm thịt giá đỗ, cuốn cùng rau sống chấm nước mắm chua ngọt.</p>
+    <div class="flex items-center space-x-6 text-md text-gray-700">
+      <span>⏱ 30 phút</span>
+      <span>👤 Chú Tư</span>
+      <span>📅 13 April 2025</span>
+    </div>
+    <button class="text-lg bg-black text-white px-6 py-3 rounded hover:bg-gray-800">Xem công thức</button>
+  </div>
+  <div class="lg:w-1/2 mt-6 lg:mt-0">
+    <img src="https://ik.imagekit.io/tvlk/blog/2022/08/banh-xeo-dac-san-o-dau-3.jpeg?tr=q-70,c-at_max,w-500,h-250,dpr-2" class="rounded-lg shadow-md" alt="Bánh xèo">
+  </div>
+</div>
+</section>
+</script>
+   <section class="text-center py-16 px-6">
+    <h2 class="text-3xl font-bold mb-4">Đơn giản vẫn NGON !!</h2>
+    <p class="text-gray-600 max-w-xl mx-auto">
+      Không cần cầu kỳ vẫn có món ăn Ngon. Ngại gì không thử bắt đầu lại ẩm thực Chân Ái.
+    </p>
+    </section>
+    <section class="mt-12 px-8">
+      <div class="flex justify-between items-center mb-6">
+        <h2 class="text-2xl font-bold">Thể Loại</h2>
+        <a href="theloai.html" class="text-sm bg-blue-100 text-blue-700 px-4 py-2 rounded-full hover:bg-blue-200 text-center inline-block">
+          Xem tất cả thể loại
+        </a>
+      </div>
+      <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-4">
+        <a href="buasang.html" class="flex flex-col items-center bg-yellow-100 rounded-xl p-4 hover:shadow transition">
+          <img src="https://www.svgrepo.com/show/530223/bread.svg" class="w-16 h-16 mb-2" alt="Bữa sáng">
+          <span class="text-sm font-medium">Bữa Sáng</span>
+        </a>  
+        <a href="monchay.html" class="flex flex-col items-center bg-green-100 rounded-xl p-4 hover:shadow transition">
+          <img src="https://www.svgrepo.com/show/356599/salad.svg" class="w-16 h-16 mb-2" alt="Món chay">
+          <span class="text-sm font-medium">Món Chay</span>
+        </a>
+        <a href="trangmieng.html" class="flex flex-col items-center bg-pink-100 rounded-xl p-4 hover:shadow transition">
+          <img src="https://www.svgrepo.com/show/397176/pancakes.svg" class="w-16 h-16 mb-2" alt="Tráng Miệng">
+          <span class="text-sm font-medium">Tráng Miệng</span>
+        </a>
+        <a href="monlau.html" class="flex flex-col items-center bg-cyan-100 rounded-xl p-4 hover:shadow transition">
+          <img src="https://www.svgrepo.com/show/398114/pot-of-food.svg" class="w-16 h-16 mb-2" alt="Món Lẩu">
+          <span class="text-sm font-medium">Món Lẩu</span>
+        </a>
+        <a href="monhan.html" class="flex flex-col items-center bg-red-100 rounded-xl p-4 hover:shadow transition">
+          <img src="https://cdn-icons-png.flaticon.com/128/2276/2276934.png" class="w-16 h-16 mb-2" alt="Món Hàn">
+          <span class="text-sm font-medium">Món Hàn</span>
+        </a>
+        <a href="monnhat.html" class="flex flex-col items-center bg-blue-100 rounded-xl p-4 hover:shadow transition">
+          <img src="https://www.svgrepo.com/show/398436/sushi.svg" class="w-16 h-16 mb-2" alt="Món Nhật">
+          <span class="text-sm font-medium">Món Nhật</span>
+        </a>
+      </div>
+    </section>
+<section class="mt-16 px-6 md:px-12">
+  <h2 class="text-3xl font-bold mb-10 text-center text-gray-800">Món Ăn Đề Xuất</h2>
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-10">
+    <div class="bg-blue-50 rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition relative">
+      <div class="relative aspect-[4/3]">
+        <img src="https://i.pinimg.com/736x/32/05/0d/32050d841b09d56842d362ca882feb40.jpg"
+             alt="Bánh Trứng Sữa Nướng"
+             class="w-full h-full object-cover">
+        <button class="absolute top-2 right-2 bg-white rounded-full p-1 shadow hover:bg-red-100 favorite-btn text-gray-400">
+          ❤️
+        </button>
+      </div>
+      <div class="p-5">
+        <h3 class="text-xl font-semibold mb-2">Bánh Trứng Sữa Nướng</h3>
+        <div class="flex items-center gap-4 text-sm text-gray-600">
+          <div class="flex items-center gap-1">⏱️ <span>10 phút</span></div>
+          <div class="flex items-center gap-1">🍰 <span>Tráng Miệng</span></div>
+        </div>
+      </div>
+    </div>
+    <div class="bg-blue-50 rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition relative">
+      <div class="relative aspect-[4/3]">
+        <img src="https://i.pinimg.com/736x/4f/37/75/4f3775cf0ea221da3ca17b694db81def.jpg"
+             alt="Trứng Rim Mắm"
+             class="w-full h-full object-cover">
+        <button class="absolute top-2 right-2 bg-white rounded-full p-1 shadow hover:bg-red-100">
+          🤍
+        </button>
+      </div>
+      <div class="p-5">
+        <h3 class="text-xl font-semibold mb-2">Trứng Rim Mắm</h3>
+        <div class="flex items-center gap-4 text-sm text-gray-600">
+          <div class="flex items-center gap-1">⏱️ <span>7 phút</span></div>
+          <div class="flex items-center gap-1">🍳 <span>Buổi Tối</span></div>
+        </div>
+      </div>
+    </div>
+    <div class="bg-blue-50 rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition relative">
+      <div class="relative aspect-[4/3]">
+        <img src="https://i.pinimg.com/736x/6a/b6/3a/6ab63a2efb17e21c6424f53111d662d6.jpg"
+             alt="Đậu Khuôn Sốt Cà Chua"
+             class="w-full h-full object-cover">
+        <button class="absolute top-2 right-2 bg-white rounded-full p-1 shadow hover:bg-red-100">
+          🤍
+        </button>
+      </div>
+      <div class="p-5">
+        <h3 class="text-xl font-semibold mb-2">Nấm Sồi Xào Dầu Hào</h3>
+        <div class="flex items-center gap-4 text-sm text-gray-600">
+          <div class="flex items-center gap-1">⏱️ <span>30 phút</span></div>
+          <div class="flex items-center gap-1">🥞 <span>Món Chay</span></div>
+        </div>
+      </div>
+    </div>
+    <div class="bg-blue-50 rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition relative">
+      <div class="relative aspect-[4/3]">
+        <img src="https://i.pinimg.com/736x/ae/bc/38/aebc3845eebf432571744dbc45eb2813.jpg"
+             alt="Bánh Trứng Sữa Nướng"
+             class="w-full h-full object-cover">
+        <button class="absolute top-2 right-2 bg-white rounded-full p-1 shadow hover:bg-red-100">
+          ❤️
+        </button>
+      </div>
+      <div class="p-5">
+        <h3 class="text-xl font-semibold mb-2">Mì Xào Bò</h3>
+        <div class="flex items-center gap-4 text-sm text-gray-600">
+          <div class="flex items-center gap-1">⏱️ <span>10 phút</span></div>
+          <div class="flex items-center gap-1">🍰 <span>Món Mặn</span></div>
+        </div>
+      </div>
+    </div>
+    <div class="bg-blue-50 rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition relative">
+      <div class="relative aspect-[4/3]">
+        <img src="https://i.pinimg.com/736x/eb/fe/54/ebfe545dac563abb0b4ad7fcf5f6c66d.jpg"
+             alt="Trứng Rim Mắm"
+             class="w-full h-full object-cover">
+        <button class="absolute top-2 right-2 bg-white rounded-full p-1 shadow hover:bg-red-100">
+          🤍
+        </button>
+      </div>
+      <div class="p-5">
+        <h3 class="text-xl font-semibold mb-2">Cơm Chiên Dương Châu</h3>
+        <div class="flex items-center gap-4 text-sm text-gray-600">
+          <div class="flex items-center gap-1">⏱️ <span>7 phút</span></div>
+          <div class="flex items-center gap-1">🍳 <span>Buổi Tối</span></div>
+        </div>
+      </div>p         
+    </div>
+    <div class="bg-blue-50 rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition relative">
+      <div class="relative aspect-[4/3]">
+        <img src="https://i.pinimg.com/736x/a2/1f/24/a21f24b57a26b5d98a05eac0e4e705fd.jpg"
+             alt="Đậu Khuôn Sốt Cà Chua"
+             class="w-full h-full object-cover">
+        <button class="absolute top-2 right-2 bg-white rounded-full p-1 shadow hover:bg-red-100">
+          🤍
+        </button>
+      </div>
+      <div class="p-5">
+        <h3 class="text-xl font-semibold mb-2">Thịt Kho Tàu</h3>
+        <div class="flex items-center gap-4 text-sm text-gray-600">
+          <div class="flex items-center gap-1">⏱️ <span>30 phút</span></div>
+          <div class="flex items-center gap-1">🥞 <span>Món Mặn</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+<footer class="bg-white border-t py-6 text-center text-sm text-gray-500">
+  © 2025 YummyKitchen. Tất cả bản quyền được bảo lưu.
+</footer>
+</section>
+<script src="../../static/js/home.js"></script>
+</body>
+</html>

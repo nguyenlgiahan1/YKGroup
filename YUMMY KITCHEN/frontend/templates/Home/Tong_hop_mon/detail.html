@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chi tiết món ăn</title>
+  <link rel="stylesheet" href="../Tong_hop_mon/" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></link>
+  <link rel="icon" type="image/png" href="../../react-app/src/ảnh/logo_Yummykitchen.jpg"/>
+</head>
+<body class="bg-gray-50 text-gray-800">
+  <nav class="flex items-center justify-between py-4 px-8 border-b bg-white relative">
+    <div class="flex items-center gap-x-4">
+      <a href="../home.html" class="text-2xl font-bold whitespace-nowrap">
+        Yummy<span class="text-orange-500">Kitchen</span>
+      </a>
+      <div class="relative">
+        <input type="text" class="border rounded-full py-1 px-3 pl-88 focus:outline-none focus:ring-2 focus:ring-orange-500" placeholder="Tìm kiếm...">
+        <i class="fas fa-search absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-500"></i>
+      </div>
+    </div>
+    <div class="absolute left-1/2 transform -translate-x-1/2 hidden md:flex space-x-6 items-center text-gray-800 font-medium">
+      <a href="../home.html" class="hover:text-orange-500">Trang Chủ</a>
+      <div class="relative group">
+        <button onclick="toggleMenu('subMenuCongThuc')" class="flex items-center space-x-1 hover:text-orange-500 focus:outline-none">
+          <span>Công Thức</span>
+          <img src="https://protectcoyotevalley.org/wp-content/uploads/intense-cache/icons/plugin/font-awesome/angle-right.svg" class="w-3 h-3 mt-1" />
+        </button>
+        <div id="subMenuCongThuc" class="absolute left-0 mt-2 w-64 bg-white shadow-xl border rounded-md p-4 hidden z-10">
+          <ul class="space-y-2">
+            <li><a href="../list_tonghop.html" class="block hover:text-orange-500">Món ăn của Bếp</a></li>
+            <li><a href="monan_cuaban.html" class="block hover:text-orange-500">Món ăn của Bạn</a></li>
+          </ul>
+        </div>
+      </div>
+      <a href="../blog.html" class="hover:text-orange-500">Blog</a>
+      <a href="../contact.html" class="hover:text-orange-500">Liên hệ</a>
+      <a href="#" class="hover:text-orange-500">Về Chúng Tôi</a>
+      <div class="relative group">
+        <button onclick="toggleMenu('subMenuTheLoai')" class="flex items-center space-x-1 hover:text-orange-500 focus:outline-none">
+          <span>Thể loại</span>
+          <img src="https://protectcoyotevalley.org/wp-content/uploads/intense-cache/icons/plugin/font-awesome/angle-right.svg" class="w-3 h-3 mt-1" />
+        </button>
+        <div id="subMenuTheLoai" class="absolute left-0 mt-2 w-64 bg-white shadow-xl border rounded-md p-4 hidden z-10 max-h-96 overflow-y-auto">
+          <ul class="space-y-2">
+            <li><a href="buasang.html" class="block hover:text-orange-500">Bữa Sáng</a></li>
+            <li><a href="buatra.html" class="block hover:text-orange-500">Bữa Trưa</a></li>
+            <li><a href="buatoi.html" class="block hover:text-orange-500">Bữa Tối</a></li>
+            <li><a href="monchay.html" class="block hover:text-orange-500">Món Chay</a></li>
+            <li><a href="monman.html" class="block hover:text-orange-500">Món Mặn</a></li>
+            <li><a href="trangmieng.html" class="block hover:text-orange-500">Tráng Miệng</a></li>
+            <li><a href="monhealthy.html" class="block hover:text-orange-500">Món Healthy</a></li>
+            <li><a href="anvat.html" class="block hover:text-orange-500">Ăn Vặt</a></li>
+            <li><a href="haisan.html" class="block hover:text-orange-500">Hải Sản</a></li>
+            <li><a href="dochien.html" class="block hover:text-orange-500">Đồ Chiên</a></li>
+            <li><a href="monnuong.html" class="block hover:text-orange-500">Món Nướng</a></li>
+            <li><a href="monlau.html" class="block hover:text-orange-500">Món Lẩu</a></li>
+            <li><a href="monhan.html" class="block hover:text-orange-500">Món Hàn</a></li>
+            <li><a href="monnhat.html" class="block hover:text-orange-500">Món Nhật</a></li>
+            <li><a href="monchauau.html" class="block hover:text-orange-500">Món Châu Âu</a></li>
+            <li><a href="nuoc.html" class="block hover:text-orange-500">Nước</a></li>
+            <li><a href="tonghop.html" class="block hover:text-orange-500">Tổng hợp</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="hidden md:flex items-center space-x-4">
+      <div class="flex space-x-4">
+        <a href="#" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
+          <i class="fab fa-facebook-f text-gray-700"></i>
+        </a>
+        <a href="#" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
+          <i class="fab fa-twitter text-gray-700"></i>
+        </a>
+        <a href="#" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
+          <i class="fab fa-instagram text-gray-700"></i>
+        </a>
+      </div>
+      <a href="login.html" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-gray-700" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M5.121 17.804A9 9 0 0112 15a9 9 0 016.879 2.804M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+        </svg>
+      </a>
+    </div>
+  </nav>
+  <main class="max-w-6xl mx-auto px-4 py-10 grid grid-cols-1 lg:grid-cols-3 gap-8 text-base" id="recipe-detail">
+    <div class="lg:col-span-2">
+      <a href="../list_tonghop.html" class="inline-flex items-center text-orange-500 hover:underline mb-4">
+        <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+        </svg>
+        Quay lại danh sách
+      </a>
+      <h1 id="title" class="text-4xl font-bold mb-4">Tên món ăn</h1>
+      <div class="flex flex-wrap gap-4 text-sm text-gray-600 mb-6">
+        <span id="author">👨‍🍳 Bởi <strong>Đang tải...</strong></span>
+        <span id="time">⏱ Thời gian: -- phút</span>
+        <span id="serving">🍽 Khẩu phần: --</span>
+        <span id="category">🍜 Danh mục: --</span>
+      </div>
+      <div class="mb-6">
+        <div id="video-container" class="relative w-full" style="padding-bottom: 56.25%; overflow: hidden;">
+        </div>
+      </div>
+      <p id="description" class="text-gray-700 leading-relaxed mb-6">Mô tả món ăn đang được tải...</p>
+      <section class="mb-8">
+        <h2 class="text-2xl font-semibold mb-3">Thành phần</h2>
+        <ul id="ingredients" class="list-disc list-inside space-y-2 text-gray-700"></ul>
+      </section>
+      <section>
+        <h2 class="text-2xl font-semibold mb-3">Các bước chế biến</h2>
+        <ol id="steps" class="list-decimal list-inside space-y-3 text-gray-700"></ol>
+      </section>
+    </div>
+    <aside>
+      <div class="bg-white p-6 rounded-lg shadow mb-8">
+        <h3 class="text-xl font-semibold mb-4">Thông Tin Dinh Dưỡng</h3>
+        <ul id="nutrition" class="space-y-2 text-sm text-gray-700"></ul>
+        <p class="mt-2 text-xs text-gray-400">* Thông tin chỉ mang tính tham khảo</p>
+      </div>
+
+      <div>
+        <h3 class="text-xl font-semibold mb-4">Gợi Ý Món Khác</h3>
+        <div id="suggested" class="space-y-4 text-sm text-gray-700"></div>
+      </div>
+    </aside>
+  </main>
+  <script src="../../../static/js/detail.js"></script>
+</body>
+</html>
