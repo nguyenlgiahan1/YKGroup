@@ -1,0 +1,3067 @@
+[
+    {
+      "title": "Mì Cay",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "../../react-app/src/ảnh/micay.jpg",
+      "description": "Mì cay là món ăn hấp dẫn với vị cay nồng đặc trưng, kết hợp giữa mì, hải sản, xúc xích và rau củ, thích hợp cho những ngày se lạnh.",
+      "ingredients": [
+        "200g mì Hàn Quốc (mì cay)",
+        "100g tôm tươi",
+        "100g mực",
+        "2 cái xúc xích",
+        "1/2 củ hành tây",
+        "1/2 quả ớt chuông đỏ",
+        "1/2 quả ớt chuông xanh",
+        "1 cây hành lá",
+        "2 muỗng canh tương ớt Hàn Quốc (gochujang)",
+        "1 muỗng cà phê ớt bột Hàn Quốc",
+        "1 muỗng canh dầu mè",
+        "2 tép tỏi băm",
+        "800ml nước dùng gà hoặc nước lọc",
+        "Gia vị: muối, tiêu, nước mắm"
+      ],
+      "instructions": [
+        "Sơ chế tôm, mực sạch sẽ. Xúc xích cắt lát chéo. Hành tây, ớt chuông, hành lá thái lát.",
+        "Phi thơm tỏi với dầu mè, cho tương ớt Hàn Quốc và ớt bột vào đảo đều.",
+        "Đổ nước dùng vào nồi, nêm gia vị vừa ăn rồi đun sôi.",
+        "Cho hải sản và xúc xích vào nấu khoảng 5 phút.",
+        "Thêm mì, rau củ vào, nấu thêm 3-5 phút cho mì chín.",
+        "Cho hành lá vào, tắt bếp và dọn ra tô khi còn nóng."
+      ],
+      "nutrition": {
+        "calories": 650,
+        "protein": 30,
+        "carbs": 70,
+        "fat": 25
+      },
+      "video": "https://www.youtube.com/watch?v=ScTe06kASUs&t=23s",
+      "id": 1
+    }
+    ,
+    {
+      "title": "Bún Bò Huế",
+      "author": "YummyKitchen",
+      "cook_time": "90 phút",
+      "servings": "4 người",
+      "category": "Món chính",
+      "image": "../../react-app/src/ảnh/bunbo.jpg",
+      "description": "Bún bò Huế là món đặc sản miền Trung với nước dùng đậm đà, thơm mùi sả và cay nhẹ, ăn kèm giò heo và chả Huế.",
+      "ingredients": [
+        "500g bắp bò",
+        "1 cái giò heo",
+        "200g chả Huế",
+        "1 cây sả",
+        "1 củ hành tím",
+        "1 muỗng canh mắm ruốc Huế",
+        "2 muỗng canh dầu điều",
+        "1.5 lít nước",
+        "Gia vị: muối, đường, nước mắm"
+      ],
+      "instructions": [
+        "Rửa sạch thịt bò, giò heo và luộc sơ.",
+        "Phi hành tím, sả, cho mắm ruốc vào xào thơm.",
+        "Cho nước, thịt, giò heo vào hầm 60 phút.",
+        "Nêm nước dùng với dầu điều và nước mắm.",
+        "Luộc bún, xếp vào tô với thịt, chan nước dùng.",
+        "Thêm rau sống và chanh ớt khi ăn."
+      ],
+      "nutrition": {
+        "calories": 720,
+        "protein": 40,
+        "carbs": 65,
+        "fat": 30
+      },
+      "video": "https://www.youtube.com/watch?v=qQlSVAeZzAs",
+      "id": 2
+    }
+    ,
+    {
+      "title": "Phở Bò",
+      "author": "YummyKitchen",
+      "cook_time": "90 phút",
+      "servings": "2 người",
+      "category": "Món chính",
+      "image": "../../react-app/src/ảnh/phobo.jpg",
+      "description": "Phở bò là món ăn truyền thống của Việt Nam với nước dùng thanh ngọt từ xương bò, kết hợp với bánh phở và thịt bò thái mỏng.",
+      "ingredients": [
+        "300g xương bò",
+        "200g thịt bò tái (thăn, bắp)",
+        "200g bánh phở tươi",
+        "1 củ hành tây",
+        "1 nhánh gừng",
+        "2 hoa hồi, 1 thanh quế",
+        "1 muỗng cà phê muối",
+        "1 muỗng canh nước mắm",
+        "Rau ăn kèm: hành lá, rau mùi, giá đỗ, chanh, ớt"
+      ],
+      "instructions": [
+        "Nướng hành tây và gừng cho thơm, rửa sạch.",
+        "Hầm xương bò với hành, gừng, hoa hồi, quế trong 60 phút.",
+        "Chần thịt bò tái và bánh phở.",
+        "Chan nước dùng lên phở và thịt, thêm rau sống."
+      ],
+      "nutrition": {
+        "calories": 640,
+        "protein": 38,
+        "carbs": 60,
+        "fat": 25
+      },
+      "video": "https://www.youtube.com/watch?v=c9GfHgMk1ac",
+      "id": 3
+    }
+    ,
+    {
+      "title": "Chè Ba Màu",
+      "author": "YummyKitchen",
+      "cook_time": "45 phút",
+      "servings": "2 người",
+      "category": "Tráng miệng",
+      "image": "../../react-app/src/ảnh/chebamau.jpg",
+      "description": "Chè ba màu là món tráng miệng mát lạnh gồm đậu đỏ, đậu xanh, thạch lá dứa và nước cốt dừa béo ngậy.",
+      "ingredients": [
+        "100g đậu đỏ",
+        "100g đậu xanh cà vỏ",
+        "100g thạch lá dứa",
+        "200ml nước cốt dừa",
+        "50g đường",
+        "Đá bào"
+      ],
+      "instructions": [
+        "Luộc chín đậu đỏ và đậu xanh, nấu với ít đường.",
+        "Thạch lá dứa cắt sợi.",
+        "Cho lần lượt các lớp vào ly: đậu đỏ, đậu xanh, thạch, nước cốt dừa và đá."
+      ],
+      "nutrition": {
+        "calories": 360,
+        "protein": 12,
+        "carbs": 60,
+        "fat": 10
+      },
+      "video": "https://www.youtube.com/watch?v=S-xBww-JRKA",
+      "id": 4
+    }
+    ,
+      {
+        "title": "Chả Giò (Nem Rán)",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "../../react-app/src/ảnh/chagio.jpg",
+        "description": "Chả giò là món ăn quen thuộc với lớp vỏ giòn rụm, nhân thịt, tôm, rau củ ăn kèm bún và nước chấm.",
+        "ingredients": [
+          "100g thịt heo xay",
+          "50g tôm băm",
+          "30g miến dong",
+          "1 củ cà rốt, 1 củ hành tím",
+          "8 bánh tráng cuốn chả giò",
+          "Nước mắm pha chua ngọt"
+        ],
+        "instructions": [
+          "Ngâm miến, băm nhỏ các nguyên liệu, trộn đều.",
+          "Cuốn nhân vào bánh tráng, chiên vàng giòn.",
+          "Dọn kèm rau sống, nước chấm."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 30,
+          "carbs": 35,
+          "fat": 28
+        },
+        "video": "https://www.youtube.com/watch?v=YsMFtACQJaY",
+        "id": 5
+      }
+      ,
+      {
+        "title": "Gỏi Cuốn Tôm Thịt",
+        "author": "YummyKitchen",
+        "cook_time": "30 phút",
+        "servings": "2 người",
+        "category": "Khai vị",
+        "image": "../../react-app/src/ảnh/goicuon.jpg",
+        "description": "Gỏi cuốn là món ăn thanh mát gồm tôm, thịt, bún, rau sống cuộn trong bánh tráng, chấm cùng nước mắm chua ngọt.",
+        "ingredients": [
+          "8 con tôm",
+          "100g thịt ba chỉ luộc",
+          "100g bún tươi",
+          "8 bánh tráng cuốn",
+          "Rau sống: xà lách, húng quế, rau thơm",
+          "Nước chấm: nước mắm pha, tương đậu phộng"
+        ],
+        "instructions": [
+          "Luộc tôm, thịt, thái lát mỏng.",
+          "Trải bánh tráng, xếp rau, bún, thịt, tôm rồi cuộn lại.",
+          "Pha nước mắm chua ngọt hoặc tương đậu phộng để chấm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 28,
+          "carbs": 30,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/watch?v=LJ_3BeqH63w",
+        "id": 6
+      },
+      {
+        "title": "Bún Riêu Chay",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chay",
+        "image": "../../react-app/src/ảnh/bunrieuchay.jpg",
+        "description": "Bún riêu chay thanh đạm với đậu hũ, cà chua, nước dùng rau củ và riêu nấm thơm ngon.",
+        "ingredients": [
+          "100g đậu hũ trắng",
+          "2 quả cà chua",
+          "100g nấm rơm",
+          "1 muỗng canh mắm nêm chay",
+          "1 lít nước rau củ",
+          "100g bún tươi"
+        ],
+        "instructions": [
+          "Xào cà chua, đậu hũ, nấm với mắm chay.",
+          "Cho nước rau củ vào nấu 15 phút.",
+          "Chan nước dùng vào bún, thêm rau sống."
+        ],
+        "nutrition": {
+          "calories": 280,
+          "protein": 14,
+          "carbs": 40,
+          "fat": 8
+        },
+        "video": "https://www.youtube.com/watch?v=wOsJSAkxo1U",
+        "id": 7
+      }
+      
+      ,
+      {
+        "title": "Cơm Tấm Sườn Bì Chả",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "2 người",
+        "category": "Món cơm",
+        "image": "../../react-app/src/ảnh/comtam.jpg",
+        "description": "Cơm tấm với sườn nướng, bì heo, chả trứng – món ăn sáng đặc trưng của người Sài Gòn.",
+        "ingredients": [
+          "2 miếng sườn heo",
+          "100g bì heo trộn thính",
+          "1 trứng + 50g thịt bằm",
+          "1 chén cơm tấm",
+          "Nước mắm pha, dưa leo, đồ chua"
+        ],
+        "instructions": [
+          "Ướp sườn nướng thơm.",
+          "Trộn bì heo với thính, chả hấp chín.",
+          "Dọn cơm tấm ra dĩa với sườn, bì, chả và nước mắm."
+        ],
+        "nutrition": {
+          "calories": 680,
+          "protein": 36,
+          "carbs": 58,
+          "fat": 32
+        },
+        "video": "https://www.youtube.com/watch?v=I7IO_xMc4yA",
+        "id": 8
+      }
+      ,
+      {
+        "title": "Bánh Canh Cua",
+        "author": "YummyKitchen",
+        "cook_time": "40 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "../../react-app/src/ảnh/banhcanhcua.jpg",
+        "description": "Bánh canh cua với nước lèo sánh đậm, thịt cua ngọt tự nhiên, rất hấp dẫn.",
+        "ingredients": [
+          "200g thịt cua",
+          "100g chả cua",
+          "200g bánh canh bột gạo",
+          "1 quả trứng cút luộc",
+          "Gia vị: nước mắm, muối, tiêu"
+        ],
+        "instructions": [
+          "Nấu nước dùng từ xương hoặc chả cua.",
+          "Thêm thịt cua vào, nêm gia vị.",
+          "Luộc bánh canh, cho vào tô, chan nước dùng."
+        ],
+        "nutrition": {
+          "calories": 550,
+          "protein": 35,
+          "carbs": 45,
+          "fat": 20
+        },
+        "video": "https://www.youtube.com/watch?v=nsjBAOgjUmw",
+        "id": 9
+      }
+      ,
+      {
+        "title": "Cơm Hến",
+        "author": "YummyKitchen",
+        "cook_time": "30 phút",
+        "servings": "2 người",
+        "category": "Món cơm",
+        "image": "../../react-app/src/ảnh/comhen.jpg",
+        "description": "Cơm hến đặc sản Huế với hến xào sả ớt, rau sống và nước hến đậm đà.",
+        "ingredients": [
+          "200g hến luộc",
+          "1 chén cơm nguội",
+          "Sả, ớt, hành phi",
+          "Rau sống các loại",
+          "Gia vị: nước mắm, tiêu"
+        ],
+        "instructions": [
+          "Xào hến với sả ớt, nêm gia vị.",
+          "Bày cơm, hến, rau sống vào tô.",
+          "Chan nước hến khi ăn."
+        ],
+        "nutrition": {
+          "calories": 480,
+          "protein": 28,
+          "carbs": 55,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/watch?v=-0ACbNVOWuk",
+        "id": 10
+      }
+      ,
+      {
+        "title": "Đậu Hũ Sốt Cà Chay",
+        "author": "YummyKitchen",
+        "cook_time": "20 phút",
+        "servings": "2 người",
+        "category": "Món chay",
+        "image": "../../react-app/src/ảnh/dauhusotca.jpg",
+        "description": "Món chay thanh đạm từ đậu hũ và sốt cà chua, ăn cùng cơm rất ngon miệng.",
+        "ingredients": [
+          "2 miếng đậu hũ",
+          "2 quả cà chua",
+          "Hành lá, hành tím",
+          "Gia vị: nước mắm chay, tiêu"
+        ],
+        "instructions": [
+          "Chiên đậu hũ vàng đều.",
+          "Xào cà chua với hành tím, cho đậu vào sốt.",
+          "Nêm gia vị, rắc hành lá."
+        ],
+        "nutrition": {
+          "calories": 250,
+          "protein": 12,
+          "carbs": 10,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/watch?v=_6Q43mT5TVk",
+        "id": 11
+      }
+      ,
+      {
+        "title": "Canh Chua Cá Lóc",
+        "author": "YummyKitchen",
+        "cook_time": "35 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "../../react-app/src/ảnh/canhchuacaloc.jpg",
+        "description": "Món canh chua đặc trưng Nam Bộ với cá lóc, bạc hà, cà chua, và me.",
+        "ingredients": [
+          "300g cá lóc cắt khúc",
+          "1 trái cà chua",
+          "100g bạc hà, giá, me",
+          "Gia vị: nước mắm, đường, tiêu"
+        ],
+        "instructions": [
+          "Nấu nước sôi, cho me vào dằm lấy nước chua.",
+          "Cho cá vào nấu chín, thêm rau và gia vị.",
+          "Ăn nóng với cơm trắng."
+        ],
+        "nutrition": {
+          "calories": 420,
+          "protein": 35,
+          "carbs": 10,
+          "fat": 25
+        },
+        "video": "https://www.youtube.com/watch?v=AQoI-o35EMA",
+        "id": 12
+      }
+      ,
+      {
+        "title": "Bánh Flan",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Tráng miệng",
+        "image": "../../react-app/src/ảnh/banhflan.jpg",
+        "description": "Bánh flan mềm mịn, béo ngậy, kết hợp vị caramel đắng nhẹ hấp dẫn.",
+        "ingredients": [
+          "2 quả trứng gà",
+          "200ml sữa tươi",
+          "50g đường",
+          "1/2 ống vani"
+        ],
+        "instructions": [
+          "Thắng caramel và đổ vào khuôn.",
+          "Đánh trứng với sữa và đường, rây mịn.",
+          "Đổ vào khuôn, hấp cách thủy 25 phút."
+        ],
+        "nutrition": {
+          "calories": 260,
+          "protein": 8,
+          "carbs": 25,
+          "fat": 14
+        },
+        "video": "https://www.youtube.com/watch?v=xBCp5-bzfZQ",
+        "id": 13
+      }
+      ,
+      {
+        "title": "Phở Gà",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "../../react-app/src/ảnh/phoga.jpg",
+        "description": "Phở gà với nước dùng thanh ngọt từ xương gà, sợi phở mềm và thịt gà thơm ngon.",
+        "ingredients": [
+          "300g xương và thịt gà",
+          "200g bánh phở",
+          "Gừng, hành nướng",
+          "Gia vị: muối, nước mắm, tiêu"
+        ],
+        "instructions": [
+          "Ninh xương gà lấy nước dùng.",
+          "Luộc thịt gà, xé sợi.",
+          "Trụng phở, chan nước dùng, rắc hành ngò."
+        ],
+        "nutrition": {
+          "calories": 470,
+          "protein": 30,
+          "carbs": 45,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/watch?v=Ildv1ncLJig",
+        "id": 14
+      }
+      ,
+      {
+        "title": "Chè Bắp",
+        "author": "YummyKitchen",
+        "cook_time": "35 phút",
+        "servings": "2 người",
+        "category": "Tráng miệng",
+        "image": "../../react-app/src/ảnh/chebap.jpg",
+        "description": "Chè bắp ngọt thanh, dẻo thơm, thêm nước cốt dừa béo ngậy.",
+        "ingredients": [
+          "2 trái bắp nếp",
+          "50g đường",
+          "1 muỗng bột năng",
+          "100ml nước cốt dừa",
+          "1/4 muỗng muối"
+        ],
+        "instructions": [
+          "Luộc bắp, lấy hạt và nước luộc.",
+          "Cho đường, bột năng vào nấu sệt.",
+          "Chan nước cốt dừa lên trên khi ăn."
+        ],
+        "nutrition": {
+          "calories": 320,
+          "protein": 5,
+          "carbs": 55,
+          "fat": 10
+        },
+        "video": "https://www.youtube.com/watch?v=7SwM_uJRWwo",
+        "id": 15
+      }
+      ,
+      {
+        "title": "Cơm Gà Hội An",
+        "author": "YummyKitchen",
+        "cook_time": "35 phút",
+        "servings": "2 người",
+        "category": "Món cơm",
+        "image": "../../react-app/src/ảnh/comgahoian.jpg",
+        "description": "Cơm gà Hội An với thịt gà xé, cơm nấu nước luộc gà thơm ngon đậm đà.",
+        "ingredients": [
+          "300g thịt gà luộc",
+          "1 chén gạo tẻ",
+          "Hành tây, rau răm",
+          "Gia vị: muối, tiêu, nước mắm"
+        ],
+        "instructions": [
+          "Luộc gà, giữ lại nước dùng nấu cơm.",
+          "Xé gà, trộn với hành tây, rau răm.",
+          "Dọn cơm ra đĩa, thêm gà trộn lên trên."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 32,
+          "carbs": 45,
+          "fat": 20
+        },
+        "video": "https://www.youtube.com/watch?v=fz3tdHEVTnE",
+        "id": 16
+      }
+      ,
+      
+        {
+          "title": "Bánh Mì Ốp La",
+          "author": "YummyKitchen",
+          "cook_time": "15 phút",
+          "servings": "1 người",
+          "category": "Bữa Sáng",
+          "image": "../../react-app/src/ảnh/banhmiopla.jpg",
+          "description": "Bánh mì ốp la là món ăn sáng đơn giản và nhanh gọn với trứng ốp la, kèm bánh mì và chút gia vị.",
+          "ingredients": [
+            "1 ổ bánh mì",
+            "1 quả trứng",
+            "1 muỗng canh dầu ăn",
+            "1 ít muối, tiêu"
+          ],
+          "instructions": [
+            "Đánh trứng và chiên trong dầu nóng cho đến khi chín vàng.",
+            "Cắt bánh mì và cho trứng vào, thêm gia vị và thưởng thức."
+          ],
+          "nutrition": {
+            "calories": 350,
+            "protein": 12,
+            "carbs": 35,
+            "fat": 20
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 17
+        },
+        {
+          "title": "Sushi Cá Ngừ",
+          "author": "YummyKitchen",
+          "cook_time": "30 phút",
+          "servings": "2 người",
+          "category": "Món Nhật",
+          "image": "../../react-app/src/ảnh/sushi.jpg",
+          "description": "Sushi cá ngừ tươi ngon, là sự kết hợp hoàn hảo giữa cơm, rong biển và cá ngừ tươi.",
+          "ingredients": [
+            "200g cá ngừ tươi",
+            "200g cơm sushi",
+            "Nori (rong biển)",
+            "Giấm gạo",
+            "Đường, muối"
+          ],
+          "instructions": [
+            "Nấu cơm sushi với giấm, đường và muối.",
+            "Cắt cá ngừ thành lát mỏng.",
+            "Lót rong biển lên bề mặt cơm, đặt cá ngừ lên trên và cuộn lại.",
+            "Cắt thành miếng vừa ăn và thưởng thức."
+          ],
+          "nutrition": {
+            "calories": 250,
+            "protein": 20,
+            "carbs": 30,
+            "fat": 5
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 18
+        },
+        {
+          "title": "Bánh Bò Nướng",
+          "author": "YummyKitchen",
+          "cook_time": "60 phút",
+          "servings": "4 người",
+          "category": "Tráng Miệng",
+          "image": "../../react-app/src/ảnh/banhbo.jpg",
+          "description": "Bánh bò nướng mềm mịn với mùi thơm đặc trưng, là món tráng miệng tuyệt vời cho cả gia đình.",
+          "ingredients": [
+            "200g bột mì",
+            "150g đường",
+            "200ml nước cốt dừa",
+            "1 quả trứng",
+            "1 muỗng cà phê men nở",
+            "1 ít dầu ăn"
+          ],
+          "instructions": [
+            "Trộn bột mì, đường, nước cốt dừa và men nở thành hỗn hợp mịn.",
+            "Để bột nở trong 30 phút.",
+            "Nướng bánh ở nhiệt độ 180°C trong 30 phút."
+          ],
+          "nutrition": {
+            "calories": 400,
+            "protein": 5,
+            "carbs": 60,
+            "fat": 12
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 19
+        },
+        {
+          "title": "Gà Nướng Mật Ong",
+          "author": "YummyKitchen",
+          "cook_time": "45 phút",
+          "servings": "3 người",
+          "category": "Món Nướng",
+          "image": "../../react-app/src/ảnh/ganuong.jpg",
+          "description": "Gà nướng mật ong thơm ngon, vị ngọt dịu và đậm đà của gia vị, món ăn thích hợp cho cả gia đình.",
+          "ingredients": [
+            "3 chiếc đùi gà",
+            "2 muỗng canh mật ong",
+            "1 muỗng cà phê tỏi băm",
+            "1 muỗng canh dầu olive",
+            "Muối, tiêu"
+          ],
+          "instructions": [
+            "Trộn mật ong, tỏi, dầu olive, muối và tiêu.",
+            "Ướp gà với hỗn hợp trên trong 30 phút.",
+            "Nướng gà ở 200°C trong 30 phút hoặc cho đến khi gà chín vàng."
+          ],
+          "nutrition": {
+            "calories": 500,
+            "protein": 40,
+            "carbs": 15,
+            "fat": 25
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 20
+        },
+        {
+          "title": "Canh Chua Cá",
+          "author": "YummyKitchen",
+          "cook_time": "40 phút",
+          "servings": "4 người",
+          "category": "Món Mặn",
+          "image": "../../react-app/src/ảnh/canchuaca.jpg",
+          "description": "Canh chua cá là món ăn đặc trưng của miền Nam với vị chua ngọt, ăn kèm với cơm rất tuyệt vời.",
+          "ingredients": [
+            "400g cá basa",
+            "1 quả cà chua",
+            "1 quả dứa",
+            "1 muỗng canh me chua",
+            "Hành lá, rau ngổ"
+          ],
+          "instructions": [
+            "Đun sôi nước, cho cá, cà chua, dứa vào.",
+            "Thêm me chua và nêm gia vị vừa ăn.",
+            "Nấu cho đến khi cá chín mềm và có vị chua ngọt."
+          ],
+          "nutrition": {
+            "calories": 350,
+            "protein": 30,
+            "carbs": 40,
+            "fat": 5
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 21
+        }
+        ,
+        {
+          "title": "Bánh Bao Chay",
+          "author": "YummyKitchen",
+          "cook_time": "30 phút",
+          "servings": "4 người",
+          "category": "Món Chay",
+          "image": "../../react-app/src/ảnh/banhbaochay.jpg",
+          "description": "Bánh bao chay với nhân đậu xanh, nấm và rau củ, là món ăn chay đầy đủ dinh dưỡng.",
+          "ingredients": [
+            "250g bột mì",
+            "100g đậu xanh",
+            "50g nấm hương",
+            "1 củ cà rốt",
+            "1 củ hành tây",
+            "Gia vị: muối, tiêu"
+          ],
+          "instructions": [
+            "Ngâm đậu xanh cho mềm, sau đó hấp chín.",
+            "Xào nấm, cà rốt, hành tây với gia vị cho ngấm.",
+            "Trộn bột mì, nước, và nhồi cho bột dẻo.",
+            "Làm nhân từ đậu xanh và hỗn hợp nấm, rau củ, rồi cho vào bột, hấp trong 20 phút."
+          ],
+          "nutrition": {
+            "calories": 200,
+            "protein": 8,
+            "carbs": 35,
+            "fat": 5
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 22
+        },
+        {
+          "title": "Bánh Mì Pate",
+          "author": "YummyKitchen",
+          "cook_time": "20 phút",
+          "servings": "2 người",
+          "category": "Bữa Sáng",
+          "image": "../../react-app/src/ảnh/banhmipate.jpg",
+          "description": "Bánh mì pate với hương vị thơm ngon, mềm mại, thích hợp làm bữa sáng nhanh gọn.",
+          "ingredients": [
+            "2 ổ bánh mì",
+            "100g pate",
+            "1 ít dưa leo",
+            "1 lá rau thơm",
+            "1 ít tương ớt"
+          ],
+          "instructions": [
+            "Cắt bánh mì làm đôi, phết pate lên trên.",
+            "Thêm dưa leo và rau thơm lên trên.",
+            "Ăn ngay khi còn tươi."
+          ],
+          "nutrition": {
+            "calories": 400,
+            "protein": 15,
+            "carbs": 45,
+            "fat": 20
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 23
+        },
+        {
+          "title": "Canh Kim Chi Hàn Quốc",
+          "author": "YummyKitchen",
+          "cook_time": "30 phút",
+          "servings": "3 người",
+          "category": "Món Hàn",
+          "image": "../../react-app/src/ảnh/canhkimchi.jpg",
+          "description": "Canh kim chi Hàn Quốc đậm đà, thơm ngon, với vị cay và chua đặc trưng.",
+          "ingredients": [
+            "200g kim chi",
+            "200g thịt ba chỉ",
+            "1 củ hành tây",
+            "1 muỗng canh dầu mè",
+            "2 muỗng canh tương ớt Hàn Quốc"
+          ],
+          "instructions": [
+            "Phi hành tây và thịt ba chỉ với dầu mè cho đến khi thịt săn lại.",
+            "Thêm kim chi và đun sôi với nước dùng.",
+            "Nêm gia vị vừa ăn và đun tiếp trong 15 phút."
+          ],
+          "nutrition": {
+            "calories": 350,
+            "protein": 20,
+            "carbs": 10,
+            "fat": 25
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 24
+        },
+        {
+          "title": "Sườn Nướng Mật Ong",
+          "author": "YummyKitchen",
+          "cook_time": "45 phút",
+          "servings": "4 người",
+          "category": "Món Nướng",
+          "image": "../../react-app/src/ảnh/suonnuongmatong.jpg",
+          "description": "Sườn nướng mật ong là món ăn đầy hương vị, ngọt ngào và thơm ngon.",
+          "ingredients": [
+            "500g sườn non",
+            "3 muỗng canh mật ong",
+            "1 muỗng canh dầu olive",
+            "Gia vị: muối, tiêu, tỏi băm"
+          ],
+          "instructions": [
+            "Ướp sườn với mật ong, dầu olive, tỏi và gia vị trong 30 phút.",
+            "Nướng sườn ở 200°C trong 30 phút, lật đều để sườn chín đều."
+          ],
+          "nutrition": {
+            "calories": 600,
+            "protein": 40,
+            "carbs": 20,
+            "fat": 40
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 25
+        },
+       
+        {
+          "title": "Pasta Carbonara",
+          "author": "YummyKitchen",
+          "cook_time": "20 phút",
+          "servings": "2 người",
+          "category": "Món Châu Âu",
+          "image": "../../react-app/src/ảnh/pastacarbonara.jpg",
+          "description": "Món pasta carbonara là sự kết hợp tuyệt vời giữa mì, thịt xông khói và sốt kem béo ngậy.",
+          "ingredients": [
+            "200g pasta",
+            "100g thịt xông khói",
+            "1 quả trứng",
+            "50g phô mai Parmesan",
+            "1 muỗng canh kem tươi"
+          ],
+          "instructions": [
+            "Luộc pasta cho chín mềm, xào thịt xông khói với dầu olive.",
+            "Trộn trứng, phô mai và kem tươi với pasta rồi cho thịt xông khói vào."
+          ],
+          "nutrition": {
+            "calories": 500,
+            "protein": 20,
+            "carbs": 60,
+            "fat": 20
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 26
+        },
+        {
+          "title": "Sushi Cuộn California",
+          "author": "YummyKitchen",
+          "cook_time": "30 phút",
+          "servings": "4 người",
+          "category": "Món Nhật",
+          "image": "../../react-app/src/ảnh/sushicalifornia.jpg",
+          "description": "Sushi cuộn California với nhân cá hồi, bơ và dưa leo, là món ăn nổi tiếng của Nhật Bản.",
+          "ingredients": [
+            "200g cá hồi tươi",
+            "1 quả bơ",
+            "1 lá rong biển Nori",
+            "1 củ dưa leo"
+          ],
+          "instructions": [
+            "Chuẩn bị cơm sushi và cắt cá hồi, bơ, dưa leo thành lát mỏng.",
+            "Cuộn tất cả nguyên liệu với rong biển và cơm, cắt thành từng miếng vừa ăn."
+          ],
+          "nutrition": {
+            "calories": 300,
+            "protein": 20,
+            "carbs": 30,
+            "fat": 15
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 27
+        },
+        {
+          "title": "Mì Xào Hải Sản",
+          "author": "YummyKitchen",
+          "cook_time": "25 phút",
+          "servings": "2 người",
+          "category": "Hải Sản",
+          "image": "../../react-app/src/ảnh/mixaohaisan.jpg",
+          "description": "Mì xào hải sản kết hợp giữa mì, tôm, mực và rau củ tươi ngon.",
+          "ingredients": [
+            "200g mì tôm",
+            "100g tôm tươi",
+            "100g mực",
+            "1 củ hành tây",
+            "1/2 quả ớt chuông"
+          ],
+          "instructions": [
+            "Luộc mì và xào tôm, mực với hành tây, ớt chuông.",
+            "Trộn mì đã luộc vào, nêm gia vị và đảo đều."
+          ],
+          "nutrition": {
+            "calories": 450,
+            "protein": 25,
+            "carbs": 50,
+            "fat": 15
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 28
+        },
+        {
+          "title": "Bánh Tiramisu",
+          "author": "YummyKitchen",
+          "cook_time": "45 phút",
+          "servings": "6 người",
+          "category": "Tráng Miệng",
+          "image": "../../react-app/src/ảnh/banhtiramisu.jpg",
+          "description": "Bánh Tiramisu là món tráng miệng ngọt ngào với lớp kem phô mai và cà phê.",
+          "ingredients": [
+            "200g bánh quy Ladyfingers",
+            "250g phô mai mascarpone",
+            "100ml cà phê đen",
+            "2 muỗng canh rượu rum"
+          ],
+          "instructions": [
+            "Nhúng bánh quy vào cà phê, xếp vào khuôn.",
+            "Trộn mascarpone với đường và kem tươi, phủ lên bánh quy.",
+            "Làm lạnh trong 2 giờ trước khi thưởng thức."
+          ],
+          "nutrition": {
+            "calories": 350,
+            "protein": 8,
+            "carbs": 50,
+            "fat": 15
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 29
+        },
+        {
+          "title": "Súp Lơ Xào Tỏi",
+          "author": "YummyKitchen",
+          "cook_time": "15 phút",
+          "servings": "2 người",
+          "category": "Món Chay",
+          "image": "../../react-app/src/ảnh/suploxao.jpg",
+          "description": "Súp lơ xào tỏi là món ăn chay đơn giản nhưng đầy đủ chất dinh dưỡng.",
+          "ingredients": [
+            "200g súp lơ xanh",
+            "3 tép tỏi băm",
+            "1 muỗng canh dầu olive"
+          ],
+          "instructions": [
+            "Xào tỏi với dầu olive cho thơm.",
+            "Cho súp lơ vào xào nhanh trên lửa lớn, nêm gia vị vừa ăn."
+          ],
+          "nutrition": {
+            "calories": 100,
+            "protein": 3,
+            "carbs": 15,
+            "fat": 5
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 30
+        }
+        ,
+        {
+          "title": "Salad Cá Hồi",
+          "author": "YummyKitchen",
+          "cook_time": "15 phút",
+          "servings": "2 người",
+          "category": "Món Healthy",
+          "image": "../../react-app/src/ảnh/saladcahoi.jpg",
+          "description": "Salad cá hồi tươi với rau sống và dầu olive, là món ăn healthy cho buổi trưa nhẹ nhàng.",
+          "ingredients": [
+            "150g cá hồi tươi",
+            "2 lá xà lách",
+            "1 quả cà chua",
+            "1 quả dưa chuột",
+            "2 muỗng canh dầu olive"
+          ],
+          "instructions": [
+            "Cắt cá hồi thành miếng vừa ăn và nướng sơ.",
+            "Trộn rau xà lách, cà chua, dưa chuột và dầu olive.",
+            "Thêm cá hồi lên trên và ăn ngay."
+          ],
+          "nutrition": {
+            "calories": 350,
+            "protein": 25,
+            "carbs": 10,
+            "fat": 25
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 31
+        },
+        {
+          "title": "Mì Ramen Nhật Bản",
+          "author": "YummyKitchen",
+          "cook_time": "20 phút",
+          "servings": "2 người",
+          "category": "Món Nhật",
+          "image": "../../react-app/src/ảnh/miramen.jpg",
+          "description": "Mì ramen với nước dùng đậm đà, thịt lợn xá xíu, và trứng lòng đào.",
+          "ingredients": [
+            "2 gói mì ramen",
+            "100g thịt xá xíu",
+            "1 quả trứng",
+            "1 ít hành lá"
+          ],
+          "instructions": [
+            "Luộc mì và trứng.",
+            "Nấu nước dùng với gia vị, cho mì vào bát.",
+            "Xếp thịt xá xíu, trứng và hành lên mì, chan nước dùng."
+          ],
+          "nutrition": {
+            "calories": 450,
+            "protein": 30,
+            "carbs": 50,
+            "fat": 10
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 32
+        },
+        {
+          "title": "Mì Xào Thập Cẩm",
+          "author": "YummyKitchen",
+          "cook_time": "20 phút",
+          "servings": "2 người",
+          "category": "Bữa Tối",
+          "image": "../../react-app/src/ảnh/mixaothapcam.jpg",
+          "description": "Mì xào thập cẩm với tôm, thịt gà và rau củ tươi ngon.",
+          "ingredients": [
+            "200g mì",
+            "100g tôm",
+            "100g thịt gà",
+            "1 quả ớt chuông",
+            "1 củ hành tây"
+          ],
+          "instructions": [
+            "Luộc mì và xào tôm, thịt gà với hành tây và ớt chuông.",
+            "Trộn mì vào xào cùng gia vị cho ngấm."
+          ],
+          "nutrition": {
+            "calories": 500,
+            "protein": 35,
+            "carbs": 55,
+            "fat": 20
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 33
+        },
+        {
+          "title": "Súp Tôm Chua Cay",
+          "author": "YummyKitchen",
+          "cook_time": "30 phút",
+          "servings": "4 người",
+          "category": "Món Lẩu",
+          "image": "../../react-app/src/ảnh/suptomchuacay.jpg",
+          "description": "Súp tôm chua cay với nước dùng ngọt và cay, thích hợp cho những bữa tiệc gia đình.",
+          "ingredients": [
+            "300g tôm",
+            "1 quả cà chua",
+            "1 củ hành tây",
+            "Gia vị: gia vị lẩu chua cay"
+          ],
+          "instructions": [
+            "Nấu nước dùng với gia vị lẩu.",
+            "Cho tôm, cà chua, hành tây vào nấu chín, nêm gia vị vừa ăn."
+          ],
+          "nutrition": {
+            "calories": 300,
+            "protein": 25,
+            "carbs": 20,
+            "fat": 10
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 34
+        },
+        
+          {
+            "title": "Smoothie Xoài Chuối",
+            "author": "YummyKitchen",
+            "cook_time": "10 phút",
+            "servings": "1 người",
+            "category": "Nước",
+            "image": "../../react-app/src/ảnh/smoothie.jpg",
+            "description": "Smoothie xoài chuối mát lạnh, bổ dưỡng, thích hợp cho bữa sáng nhanh gọn hoặc sau tập luyện.",
+            "ingredients": [
+              "1 quả xoài chín",
+              "1 quả chuối",
+              "100ml sữa chua",
+              "1 muỗng mật ong",
+              "Đá viên"
+            ],
+            "instructions": [
+              "Gọt vỏ xoài và chuối rồi cắt thành miếng nhỏ.",
+              "Cho xoài, chuối, sữa chua và mật ong vào máy xay sinh tố.",
+              "Thêm một ít đá viên để tạo độ lạnh cho sinh tố.",
+              "Xay hỗn hợp trong khoảng 1 phút cho đến khi mịn hoàn toàn.",
+              "Rót smoothie ra ly, trang trí thêm vài lát trái cây nếu thích và thưởng thức ngay."
+            ],
+            "nutrition": {
+              "calories": 250,
+              "protein": 5,
+              "carbs": 45,
+              "fat": 4
+            },
+            "video": "https://www.youtube.com/watch?v=example",
+            "id": 35
+          },
+          {
+            "title": "Bánh Xèo Chay",
+            "author": "YummyKitchen",
+            "cook_time": "40 phút",
+            "servings": "2 người",
+            "category": "Món Chay",
+            "image": "../../react-app/src/ảnh/banhxeochay.jpg",
+            "description": "Bánh xèo chay giòn rụm với nhân nấm và đậu xanh, ăn kèm rau sống và nước chấm chua ngọt.",
+            "ingredients": [
+              "150g bột bánh xèo",
+              "100g nấm rơm",
+              "50g đậu xanh cà vỏ",
+              "Rau sống",
+              "Nước mắm chay"
+            ],
+            "instructions": [
+              "Pha bột bánh xèo với nước theo hướng dẫn trên bao bì, khuấy đều cho đến khi bột mịn và không bị vón cục.",
+              "Ngâm đậu xanh trong nước ấm khoảng 1 giờ cho mềm, sau đó hấp chín.",
+              "Làm nóng chảo với một ít dầu ăn, xào nấm rơm cho chín mềm rồi trộn cùng đậu xanh hấp.",
+              "Đun nóng chảo chống dính, múc một vá bột vào, nghiêng chảo cho bột dàn mỏng thành hình tròn.",
+              "Cho nhân nấm đậu xanh vào giữa, đậy nắp lại khoảng 1-2 phút cho bánh chín, rồi gập đôi bánh lại.",
+              "Chiên tiếp cho bánh vàng giòn rồi gắp ra đĩa, ăn kèm với rau sống và nước mắm chay pha loãng."
+            ],
+            "nutrition": {
+              "calories": 380,
+              "protein": 12,
+              "carbs": 50,
+              "fat": 15
+            },
+            "video": "https://www.youtube.com/watch?v=example",
+            "id": 36
+          },
+          {
+            "title": "Tokbokki Hàn Quốc",
+            "author": "YummyKitchen",
+            "cook_time": "25 phút",
+            "servings": "2 người",
+            "category": "Món Hàn",
+            "image": "../../react-app/src/ảnh/tokbokki.jpg",
+            "description": "Tokbokki cay ngọt với bánh gạo mềm dẻo và nước sốt đậm đà đặc trưng Hàn Quốc.",
+            "ingredients": [
+              "200g bánh gạo Hàn Quốc",
+              "100g chả cá Hàn Quốc",
+              "2 muỗng canh tương ớt Hàn Quốc (gochujang)",
+              "1 muỗng canh tương đậu nành",
+              "500ml nước dùng cá hoặc nước lọc",
+              "1 muỗng canh đường",
+              "Hành lá, mè rang"
+            ],
+            "instructions": [
+              "Ngâm bánh gạo trong nước lạnh khoảng 20 phút cho mềm.",
+              "Pha nước dùng với tương ớt, tương đậu nành và đường, khuấy tan đều.",
+              "Đun hỗn hợp nước sốt đến khi sôi rồi thả bánh gạo vào nấu trên lửa vừa.",
+              "Khi bánh gạo bắt đầu mềm, thêm chả cá thái lát vào, đảo nhẹ tay để bánh không bị dính.",
+              "Tiếp tục nấu cho đến khi nước sốt sệt lại, bánh gạo thấm đều gia vị.",
+              "Tắt bếp, rắc mè rang và hành lá cắt nhỏ lên trên trước khi thưởng thức."
+            ],
+            "nutrition": {
+              "calories": 450,
+              "protein": 18,
+              "carbs": 65,
+              "fat": 12
+            },
+            "video": "https://www.youtube.com/watch?v=example",
+            "id": 37
+          }
+        
+        ,
+        {
+          "title": "Gỏi Gà Xé Phay",
+          "author": "YummyKitchen",
+          "cook_time": "30 phút",
+          "servings": "2 người",
+          "category": "Bữa Trưa",
+          "image": "../../react-app/src/ảnh/goigaxephay.jpg",
+          "description": "Gỏi gà xé phay thanh mát, giòn ngon, là món ăn lý tưởng cho ngày hè.",
+          "ingredients": [
+            "300g ức gà",
+            "1 củ hành tây",
+            "1 củ cà rốt",
+            "Rau răm",
+            "Nước mắm, đường, chanh, ớt"
+          ],
+          "instructions": [
+            "Luộc ức gà trong nước sôi với một ít muối cho chín, sau đó vớt ra để nguội và xé sợi nhỏ.",
+            "Hành tây thái lát mỏng, ngâm nước đá 10 phút cho bớt hăng rồi vắt ráo.",
+            "Cà rốt bào sợi, rau răm rửa sạch và cắt nhỏ.",
+            "Pha nước mắm trộn gỏi gồm nước mắm, đường, nước cốt chanh và ớt băm, khuấy đều cho tan.",
+            "Trộn gà xé, hành tây, cà rốt và rau răm trong một âu lớn, rưới nước mắm trộn vào và đảo đều.",
+            "Để gỏi thấm gia vị trong 5 phút trước khi bày ra đĩa và thưởng thức."
+          ],
+          "nutrition": {
+            "calories": 350,
+            "protein": 30,
+            "carbs": 12,
+            "fat": 18
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 38
+        },
+        {
+          "title": "Sườn Ram Mặn",
+          "author": "YummyKitchen",
+          "cook_time": "35 phút",
+          "servings": "2 người",
+          "category": "Món Mặn",
+          "image": "../../react-app/src/ảnh/suonram.jpg",
+          "description": "Sườn ram mặn đậm đà, thơm lừng, rất đưa cơm trong những bữa ăn gia đình.",
+          "ingredients": [
+            "300g sườn non",
+            "2 muỗng canh nước mắm",
+            "1 muỗng canh đường",
+            "1 củ hành tím",
+            "Tiêu xay"
+          ],
+          "instructions": [
+            "Chặt sườn thành từng miếng vừa ăn, chần qua nước sôi để khử mùi.",
+            "Ướp sườn với nước mắm, đường, tiêu và hành tím băm nhỏ trong 15 phút cho thấm gia vị.",
+            "Bắc chảo lên bếp, cho sườn vào đảo đều đến khi săn lại.",
+            "Thêm một ít nước lọc, đậy nắp và rim nhỏ lửa cho đến khi nước sệt lại và sườn chín mềm.",
+            "Khi sườn thấm đều nước sốt và có màu cánh gián đẹp, rắc thêm ít tiêu rồi tắt bếp.",
+            "Dọn sườn ram ra dĩa, ăn kèm cơm trắng nóng."
+          ],
+          "nutrition": {
+            "calories": 480,
+            "protein": 28,
+            "carbs": 10,
+            "fat": 35
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 39
+        },
+        {
+          "title": "Cơm Chiên Hải Sản",
+          "author": "YummyKitchen",
+          "cook_time": "30 phút",
+          "servings": "2 người",
+          "category": "Hải Sản",
+          "image": "../../react-app/src/ảnh/comchienhaisan.jpg",
+          "description": "Cơm chiên hải sản với tôm, mực, rau củ giòn ngọt, hạt cơm săn chắc hấp dẫn.",
+          "ingredients": [
+            "200g cơm nguội",
+            "100g tôm",
+            "100g mực",
+            "1 quả trứng",
+            "1/2 củ hành tây",
+            "Đậu Hà Lan, cà rốt"
+          ],
+          "instructions": [
+            "Tôm lột vỏ, mực cắt khoanh, hành tây thái hạt lựu, cà rốt cũng thái hạt lựu nhỏ.",
+            "Đun nóng dầu trong chảo, cho trứng vào chiên sơ rồi đảo nhanh tay cho tơi ra.",
+            "Thêm tôm, mực vào xào nhanh cho săn lại, tiếp tục cho hành tây, cà rốt và đậu Hà Lan vào xào chín tới.",
+            "Cho cơm nguội vào, đảo đều với các nguyên liệu cho cơm săn lại.",
+            "Nêm gia vị vừa ăn với nước mắm, tiêu, một ít dầu mè nếu thích.",
+            "Chiên đến khi cơm tơi, dậy mùi thơm thì tắt bếp và bày ra đĩa."
+          ],
+          "nutrition": {
+            "calories": 520,
+            "protein": 30,
+            "carbs": 60,
+            "fat": 18
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 40
+        },
+        {
+          "title": "Salad Rau Củ Trộn Dầu Giấm",
+          "author": "YummyKitchen",
+          "cook_time": "15 phút",
+          "servings": "2 người",
+          "category": "Món Healthy",
+          "image": "../../react-app/src/ảnh/salad.jpg",
+          "description": "Salad rau củ trộn dầu giấm nhẹ nhàng, thanh mát, cực kỳ thích hợp cho thực đơn giảm cân.",
+          "ingredients": [
+            "1 bó xà lách",
+            "1 quả dưa chuột",
+            "10 quả cà chua bi",
+            "1 củ cà rốt",
+            "Dầu olive, giấm táo, mật ong"
+          ],
+          "instructions": [
+            "Xà lách rửa sạch, để ráo nước và xé nhỏ vừa ăn.",
+            "Dưa chuột rửa sạch, thái lát mỏng, cà rốt bào sợi, cà chua bi bổ đôi.",
+            "Pha nước trộn salad gồm dầu olive, giấm táo và mật ong theo tỷ lệ 3:2:1, khuấy đều cho hòa quyện.",
+            "Cho tất cả rau củ vào một âu lớn, rưới nước trộn lên rồi đảo nhẹ tay để rau không bị dập.",
+            "Bày salad ra đĩa, có thể rắc thêm mè rang nếu thích."
+          ],
+          "nutrition": {
+            "calories": 180,
+            "protein": 3,
+            "carbs": 20,
+            "fat": 10
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 41
+        },
+        {
+          "title": "Khoai Lang Chiên",
+          "author": "YummyKitchen",
+          "cook_time": "20 phút",
+          "servings": "2 người",
+          "category": "Đồ Chiên",
+          "image": "../../react-app/src/ảnh/khoailangchien.jpg",
+          "description": "Khoai lang chiên giòn rụm, vàng ươm, thơm ngon, thích hợp làm món ăn vặt buổi chiều.",
+          "ingredients": [
+            "300g khoai lang",
+            "100g bột chiên giòn",
+            "Nước lạnh",
+            "Dầu ăn để chiên"
+          ],
+          "instructions": [
+            "Gọt vỏ khoai lang, thái thành từng thanh dài vừa ăn rồi ngâm nước muối loãng 10 phút.",
+            "Pha bột chiên giòn với nước lạnh theo tỉ lệ hướng dẫn trên bao bì để có hỗn hợp bột sệt vừa phải.",
+            "Vớt khoai ra để ráo, nhúng từng miếng khoai vào hỗn hợp bột cho đều.",
+            "Đun nóng dầu, thả khoai đã nhúng bột vào chiên ngập dầu đến khi vàng giòn.",
+            "Vớt khoai ra để lên giấy thấm dầu và thưởng thức khi còn nóng."
+          ],
+          "nutrition": {
+            "calories": 400,
+            "protein": 5,
+            "carbs": 60,
+            "fat": 15
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 42
+        },
+        {
+          "title": "Lẩu Thái Hải Sản",
+          "author": "YummyKitchen",
+          "cook_time": "45 phút",
+          "servings": "4 người",
+          "category": "Món Lẩu",
+          "image": "../../react-app/src/ảnh/haisanlau.jpg",
+          "description": "Lẩu Thái hải sản chua cay thơm ngon, hấp dẫn, rất thích hợp cho những buổi tụ tập bạn bè.",
+          "ingredients": [
+            "300g tôm",
+            "300g mực",
+            "200g cá phi lê",
+            "1 gói gia vị lẩu thái",
+            "Nấm, rau muống, bún"
+          ],
+          "instructions": [
+            "Sơ chế sạch tôm, mực và cá, cắt miếng vừa ăn.",
+            "Đun sôi nước dùng, thêm gói gia vị lẩu thái vào khuấy đều.",
+            "Cho các loại hải sản vào nấu cho chín tới, sau đó thả nấm và rau vào.",
+            "Dọn lẩu ra bàn, dùng nóng kèm với bún tươi và nước chấm hải sản."
+          ],
+          "nutrition": {
+            "calories": 480,
+            "protein": 40,
+            "carbs": 25,
+            "fat": 20
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 43
+        },
+        {
+          "title": "Bánh Pancake Chuối",
+          "author": "YummyKitchen",
+          "cook_time": "20 phút",
+          "servings": "2 người",
+          "category": "Bữa Sáng",
+          "image": "../../react-app/src/ảnh/pancakechuoi.jpg",
+          "description": "Bánh pancake chuối mềm xốp, ngọt dịu tự nhiên từ chuối chín, cực kỳ hấp dẫn cho bữa sáng.",
+          "ingredients": [
+            "1 quả chuối chín",
+            "100g bột mì",
+            "1 quả trứng",
+            "100ml sữa tươi",
+            "1 muỗng cà phê baking powder"
+          ],
+          "instructions": [
+            "Nghiền nhuyễn chuối chín trong một tô lớn.",
+            "Thêm trứng, sữa tươi vào chuối và khuấy đều cho hòa quyện.",
+            "Rây bột mì và baking powder vào hỗn hợp chuối, trộn đều đến khi bột mịn.",
+            "Làm nóng chảo chống dính, múc từng muỗng bột đổ vào chảo tạo hình tròn nhỏ.",
+            "Chiên bánh với lửa nhỏ đến khi mặt dưới vàng thì lật mặt, tiếp tục chiên đến khi chín đều.",
+            "Dọn bánh ra đĩa, có thể rưới thêm mật ong hoặc trái cây tươi nếu thích."
+          ],
+          "nutrition": {
+            "calories": 320,
+            "protein": 8,
+            "carbs": 45,
+            "fat": 10
+          },
+          "video": "https://www.youtube.com/watch?v=example",
+          "id": 44
+        },
+        
+          {
+            "title": "Bánh Chuối Hấp",
+            "author": "YummyKitchen",
+            "cook_time": "50 phút",
+            "servings": "4 người",
+            "category": "Tráng Miệng",
+            "image": "../../react-app/src/ảnh/banhchuoi.jpg",
+            "description": "Bánh chuối hấp mềm mịn, thơm ngọt vị chuối, ăn kèm nước cốt dừa béo ngậy rất hấp dẫn.",
+            "ingredients": [
+              "5 quả chuối chín",
+              "200g bột năng",
+              "100g đường",
+              "100ml nước cốt dừa",
+              "1 ít muối"
+            ],
+            "instructions": [
+              "Chuối bóc vỏ, thái lát mỏng rồi ướp với đường cho thấm vị ngọt trong 15 phút.",
+              "Trộn bột năng với nước cốt dừa và chút muối, khuấy đều thành hỗn hợp lỏng.",
+              "Trộn chuối vào hỗn hợp bột cho đều tay.",
+              "Đổ hỗn hợp vào khuôn đã chống dính, hấp cách thủy khoảng 30–40 phút đến khi bánh chín dẻo.",
+              "Khi bánh nguội, cắt miếng vừa ăn, chan nước cốt dừa lên trên và thưởng thức."
+            ],
+            "nutrition": {
+              "calories": 280,
+              "protein": 3,
+              "carbs": 50,
+              "fat": 7
+            },
+            "video": "https://www.youtube.com/watch?v=example",
+            "id": 45
+          },
+          {
+            "title": "Gà Cay Phô Mai Hàn Quốc",
+            "author": "YummyKitchen",
+            "cook_time": "30 phút",
+            "servings": "3 người",
+            "category": "Món Hàn",
+            "image": "../../react-app/src/ảnh/gacayphomai.jpg",
+            "description": "Gà cay phô mai Hàn Quốc cay nồng, thơm béo, kéo sợi phô mai cực hấp dẫn cho tín đồ ăn cay.",
+            "ingredients": [
+              "300g ức gà",
+              "2 muỗng canh tương ớt Hàn Quốc",
+              "1 muỗng canh mật ong",
+              "200g phô mai mozzarella",
+              "Tỏi băm, dầu mè"
+            ],
+            "instructions": [
+              "Cắt gà thành miếng vừa ăn, ướp với tương ớt Hàn Quốc, mật ong, tỏi băm và dầu mè ít nhất 15 phút.",
+              "Làm nóng chảo, cho gà vào xào chín tới.",
+              "Rải đều phô mai mozzarella lên trên gà, đậy nắp cho phô mai tan chảy hoàn toàn.",
+              "Khi phô mai đã kéo sợi đẹp mắt, rắc thêm tiêu và hành lá cắt nhỏ rồi thưởng thức ngay."
+            ],
+            "nutrition": {
+              "calories": 520,
+              "protein": 35,
+              "carbs": 20,
+              "fat": 30
+            },
+            "video": "https://www.youtube.com/watch?v=example",
+            "id": 46
+          },
+          {
+            "title": "Mì Ý Sốt Bò Bằm",
+            "author": "YummyKitchen",
+            "cook_time": "35 phút",
+            "servings": "2 người",
+            "category": "Món Châu Âu",
+            "image": "../../react-app/src/ảnh/miybot.jpg",
+            "description": "Mì Ý sốt bò bằm thơm ngọt, đậm đà hương vị Ý truyền thống, dễ dàng thực hiện tại nhà.",
+            "ingredients": [
+              "200g mì Ý spaghetti",
+              "150g thịt bò bằm",
+              "1 hộp sốt cà chua",
+              "1 củ hành tây",
+              "Tỏi băm, phô mai Parmesan"
+            ],
+            "instructions": [
+              "Luộc mì Ý theo hướng dẫn trên bao bì, để ráo nước và trộn ít dầu olive cho không dính.",
+              "Phi thơm tỏi và hành tây băm nhỏ, cho thịt bò vào xào săn.",
+              "Thêm sốt cà chua, nêm gia vị muối, tiêu và hầm nhỏ lửa khoảng 10 phút.",
+              "Trộn mì với sốt bò bằm cho đều, rắc phô mai Parmesan lên trên và thưởng thức nóng."
+            ],
+            "nutrition": {
+              "calories": 600,
+              "protein": 30,
+              "carbs": 65,
+              "fat": 20
+            },
+            "video": "https://www.youtube.com/watch?v=example",
+            "id": 47
+          },
+          {
+            "title": "Trà Đào Cam Sả",
+            "author": "YummyKitchen",
+            "cook_time": "15 phút",
+            "servings": "2 người",
+            "category": "Nước",
+            "image": "../../react-app/src/ảnh/tradao.jpg",
+            "description": "Trà đào cam sả mát lạnh, thơm lừng, vừa giải nhiệt vừa bổ sung vitamin cho cơ thể.",
+            "ingredients": [
+              "2 túi trà đen",
+              "2 quả đào ngâm",
+              "1 quả cam tươi",
+              "1 nhánh sả",
+              "Đường, đá viên"
+            ],
+            "instructions": [
+              "Đun sôi nước với sả đập dập cho thơm rồi hãm trà trong 5 phút.",
+              "Cắt đào thành lát mỏng, cam cắt khoanh.",
+              "Pha trà với đường cho vừa vị, để nguội.",
+              "Cho đá vào ly, thêm đào và cam, rót trà sả lên và thưởng thức mát lạnh."
+            ],
+            "nutrition": {
+              "calories": 120,
+              "protein": 0,
+              "carbs": 28,
+              "fat": 0
+            },
+            "video": "https://www.youtube.com/watch?v=example",
+            "id": 48
+          },
+          {
+            "title": "Tempura Tôm Nhật",
+            "author": "YummyKitchen",
+            "cook_time": "25 phút",
+            "servings": "2 người",
+            "category": "Món Nhật",
+            "image": "../../react-app/src/ảnh/tempuratôm.jpg",
+            "description": "Tempura tôm giòn rụm, béo ngậy, chấm cùng nước sốt đặc trưng kiểu Nhật.",
+            "ingredients": [
+              "200g tôm sú",
+              "100g bột tempura",
+              "Nước đá lạnh",
+              "Dầu ăn"
+            ],
+            "instructions": [
+              "Lột vỏ tôm, chừa đuôi, rút chỉ lưng và để ráo nước.",
+              "Pha bột tempura với nước đá lạnh thành hỗn hợp hơi lỏng.",
+              "Nhúng từng con tôm vào bột, thả vào chảo dầu đang nóng.",
+              "Chiên cho đến khi lớp bột vàng giòn, vớt ra để ráo dầu và thưởng thức ngay khi còn nóng."
+            ],
+            "nutrition": {
+              "calories": 380,
+              "protein": 22,
+              "carbs": 30,
+              "fat": 18
+            },
+            "video": "https://www.youtube.com/watch?v=example",
+            "id": 49
+          },
+          {
+            "title": "Pizza Bò Phô Mai",
+            "author": "YummyKitchen",
+            "cook_time": "40 phút",
+            "servings": "4 người",
+            "category": "Món Châu Âu",
+            "image": "../../react-app/src/ảnh/pizzabo.jpg",
+            "description": "Pizza bò phô mai thơm ngậy, đậm đà vị thịt bò và lớp phô mai kéo sợi béo ngậy.",
+            "ingredients": [
+              "1 đế pizza sẵn",
+              "150g thịt bò bằm",
+              "100g phô mai mozzarella",
+              "Sốt cà chua",
+              "Ớt chuông, hành tây"
+            ],
+            "instructions": [
+              "Xào chín thịt bò với gia vị muối, tiêu cho thơm.",
+              "Phết sốt cà chua lên đế pizza, rải đều thịt bò, ớt chuông và hành tây thái lát.",
+              "Phủ kín mặt pizza bằng phô mai mozzarella.",
+              "Nướng pizza ở nhiệt độ 200°C khoảng 15–20 phút đến khi phô mai chảy đều và vàng nhẹ."
+            ],
+            "nutrition": {
+              "calories": 620,
+              "protein": 28,
+              "carbs": 50,
+              "fat": 35
+            },
+            "video": "https://www.youtube.com/watch?v=example",
+            "id": 50
+          },
+          {
+            "title": "Bánh Gạo Lắc Phô Mai",
+            "author": "YummyKitchen",
+            "cook_time": "15 phút",
+            "servings": "2 người",
+            "category": "Ăn Vặt",
+            "image": "../../react-app/src/ảnh/banhgacolac.jpg",
+            "description": "Bánh gạo lắc phô mai thơm bùi, giòn tan, rất thích hợp làm món ăn vặt vui miệng.",
+            "ingredients": [
+              "200g bánh gạo",
+              "50g bột phô mai",
+              "1 ít bơ lạt"
+            ],
+            "instructions": [
+              "Làm nóng chảo, cho bánh gạo vào rang sơ cho giòn hơn.",
+              "Đun chảy bơ, trộn bánh gạo với bơ cho áo đều mặt ngoài.",
+              "Rắc bột phô mai vào, lắc mạnh tay để bánh gạo bám đều phô mai.",
+              "Bày ra đĩa và thưởng thức ngay khi còn ấm."
+            ],
+            "nutrition": {
+              "calories": 300,
+              "protein": 4,
+              "carbs": 40,
+              "fat": 15
+            },
+            "video": "https://www.youtube.com/watch?v=example",
+            "id": 51
+          },
+          {
+            "title": "Súp Bí Đỏ Chay",
+            "author": "YummyKitchen",
+            "cook_time": "30 phút",
+            "servings": "2 người",
+            "category": "Món Chay",
+            "image": "../../react-app/src/ảnh/supbido.jpg",
+            "description": "Súp bí đỏ chay mềm mịn, ngọt thanh, bổ dưỡng, cực kỳ thích hợp cho bữa ăn nhẹ nhàng.",
+            "ingredients": [
+              "300g bí đỏ",
+              "1 củ khoai tây",
+              "500ml nước dùng rau củ",
+              "Sữa tươi không đường"
+            ],
+            "instructions": [
+              "Gọt vỏ bí đỏ và khoai tây, cắt khúc nhỏ.",
+              "Nấu mềm bí đỏ và khoai với nước dùng rau củ.",
+              "Xay nhuyễn hỗn hợp rồi đun lại, thêm một ít sữa tươi để tăng độ béo.",
+              "Nêm nếm nhẹ với muối và tiêu cho vừa ăn, ăn nóng rất ngon."
+            ],
+            "nutrition": {
+              "calories": 250,
+              "protein": 6,
+              "carbs": 40,
+              "fat": 8
+            },
+            "video": "https://www.youtube.com/watch?v=example",
+            "id": 52
+          }
+        ,
+        
+      {
+        "title": "Cơm Tấm 53",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-53.jpg",
+        "description": "Cơm tấm là món số 53, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 53
+      },
+      {
+        "title": "Phở Bò 54",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-54.jpg",
+        "description": "Phở bò là món số 54, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 54
+      },
+      {
+        "title": "Phở Bò 55",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-55.jpg",
+        "description": "Phở bò là món số 55, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 55
+      },
+      {
+        "title": "Phở Bò 56",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-56.jpg",
+        "description": "Phở bò là món số 56, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 56
+      },
+      {
+        "title": "Phở Bò 57",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-57.jpg",
+        "description": "Phở bò là món số 57, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 57
+      },
+      {
+        "title": "Phở Bò 58",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-58.jpg",
+        "description": "Phở bò là món số 58, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 58
+      },
+      {
+        "title": "Phở Bò 59",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-59.jpg",
+        "description": "Phở bò là món số 59, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 59
+      },
+      {
+        "title": "Cơm Tấm 60",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-60.jpg",
+        "description": "Cơm tấm là món số 60, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 60
+      },
+      {
+        "title": "Cơm Tấm 61",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-61.jpg",
+        "description": "Cơm tấm là món số 61, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 61
+      },
+      {
+        "title": "Cơm Tấm 62",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-62.jpg",
+        "description": "Cơm tấm là món số 62, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 62
+      },
+      {
+        "title": "Phở Bò 63",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-63.jpg",
+        "description": "Phở bò là món số 63, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 63
+      },
+      {
+        "title": "Cơm Tấm 64",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-64.jpg",
+        "description": "Cơm tấm là món số 64, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 64
+      },
+      {
+        "title": "Phở Bò 65",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-65.jpg",
+        "description": "Phở bò là món số 65, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 65
+      },
+      {
+        "title": "Phở Bò 66",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-66.jpg",
+        "description": "Phở bò là món số 66, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 66
+      },
+      {
+        "title": "Cơm Tấm 67",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-67.jpg",
+        "description": "Cơm tấm là món số 67, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 67
+      },
+      {
+        "title": "Cơm Tấm 68",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-68.jpg",
+        "description": "Cơm tấm là món số 68, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 68
+      },
+      {
+        "title": "Phở Bò 69",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-69.jpg",
+        "description": "Phở bò là món số 69, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 69
+      },
+      {
+        "title": "Cơm Tấm 70",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-70.jpg",
+        "description": "Cơm tấm là món số 70, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 70
+      },
+      {
+        "title": "Cơm Tấm 71",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-71.jpg",
+        "description": "Cơm tấm là món số 71, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 71
+      },
+      {
+        "title": "Cơm Tấm 72",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-72.jpg",
+        "description": "Cơm tấm là món số 72, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 72
+      },
+      {
+        "title": "Phở Bò 73",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-73.jpg",
+        "description": "Phở bò là món số 73, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 73
+      },
+      {
+        "title": "Phở Bò 74",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-74.jpg",
+        "description": "Phở bò là món số 74, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 74
+      },
+      {
+        "title": "Phở Bò 75",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-75.jpg",
+        "description": "Phở bò là món số 75, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 75
+      },
+      {
+        "title": "Cơm Tấm 76",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-76.jpg",
+        "description": "Cơm tấm là món số 76, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 76
+      },
+      {
+        "title": "Cơm Tấm 77",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-77.jpg",
+        "description": "Cơm tấm là món số 77, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 77
+      },
+      {
+        "title": "Cơm Tấm 78",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-78.jpg",
+        "description": "Cơm tấm là món số 78, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 78
+      },
+      {
+        "title": "Cơm Tấm 79",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-79.jpg",
+        "description": "Cơm tấm là món số 79, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 79
+      },
+      {
+        "title": "Phở Bò 80",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-80.jpg",
+        "description": "Phở bò là món số 80, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 80
+      },
+      {
+        "title": "Cơm Tấm 81",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-81.jpg",
+        "description": "Cơm tấm là món số 81, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 81
+      },
+      {
+        "title": "Phở Bò 82",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-82.jpg",
+        "description": "Phở bò là món số 82, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 82
+      },
+      {
+        "title": "Cơm Tấm 83",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-83.jpg",
+        "description": "Cơm tấm là món số 83, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 83
+      },
+      {
+        "title": "Phở Bò 84",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-84.jpg",
+        "description": "Phở bò là món số 84, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 84
+      },
+      {
+        "title": "Cơm Tấm 85",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-85.jpg",
+        "description": "Cơm tấm là món số 85, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 85
+      },
+      {
+        "title": "Phở Bò 86",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-86.jpg",
+        "description": "Phở bò là món số 86, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 86
+      },
+      {
+        "title": "Phở Bò 87",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-87.jpg",
+        "description": "Phở bò là món số 87, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 87
+      },
+      {
+        "title": "Phở Bò 88",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-88.jpg",
+        "description": "Phở bò là món số 88, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 88
+      },
+      {
+        "title": "Cơm Tấm 89",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-89.jpg",
+        "description": "Cơm tấm là món số 89, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 89
+      },
+      {
+        "title": "Phở Bò 90",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-90.jpg",
+        "description": "Phở bò là món số 90, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 90
+      },
+      {
+        "title": "Phở Bò 91",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-91.jpg",
+        "description": "Phở bò là món số 91, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 91
+      },
+      {
+        "title": "Cơm Tấm 92",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-92.jpg",
+        "description": "Cơm tấm là món số 92, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 92
+      },
+      {
+        "title": "Cơm Tấm 93",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-93.jpg",
+        "description": "Cơm tấm là món số 93, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 93
+      },
+      {
+        "title": "Cơm Tấm 94",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-94.jpg",
+        "description": "Cơm tấm là món số 94, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 94
+      },
+      {
+        "title": "Cơm Tấm 95",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-95.jpg",
+        "description": "Cơm tấm là món số 95, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 95
+      },
+      {
+        "title": "Phở Bò 96",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-96.jpg",
+        "description": "Phở bò là món số 96, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 96
+      },
+      {
+        "title": "Phở Bò 97",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-97.jpg",
+        "description": "Phở bò là món số 97, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 97
+      },
+      {
+        "title": "Cơm Tấm 98",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-98.jpg",
+        "description": "Cơm tấm là món số 98, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 98
+      },
+      {
+        "title": "Cơm Tấm 99",
+        "author": "YummyKitchen",
+        "cook_time": "45 phút",
+        "servings": "2 người",
+        "category": "Món chính",
+        "image": "/ảnh/cơm-tấm-99.jpg",
+        "description": "Cơm tấm là món số 99, món ăn đặc trưng của miền Nam, ăn kèm sườn nướng, trứng ốp la và đồ chua.",
+        "ingredients": [
+          "200g gạo tấm",
+          "2 miếng sườn heo",
+          "1 quả trứng gà",
+          "Đồ chua: cà rốt, củ cải",
+          "Nước mắm chua ngọt"
+        ],
+        "instructions": [
+          "Vo gạo và nấu chín bằng nồi cơm điện.",
+          "Ướp sườn với hành, tỏi, nước mắm, đường và nướng chín.",
+          "Chiên trứng ốp la.",
+          "Trình bày cơm với sườn, trứng và đồ chua.",
+          "Rưới nước mắm lên và thưởng thức."
+        ],
+        "nutrition": {
+          "calories": 520,
+          "protein": 28,
+          "carbs": 60,
+          "fat": 18
+        },
+        "video": "https://www.youtube.com/embed/wVr3kVbhocg",
+        "id": 99
+      },
+      {
+        "title": "Phở Bò 100",
+        "author": "YummyKitchen",
+        "cook_time": "60 phút",
+        "servings": "4 người",
+        "category": "Món chính",
+        "image": "/ảnh/phở-bò-100.jpg",
+        "description": "Phở bò là món số 100, món ăn truyền thống nổi tiếng của Việt Nam với nước dùng đậm đà và thơm ngon.",
+        "ingredients": [
+          "500g xương bò",
+          "300g thịt bò thăn",
+          "Bánh phở",
+          "Hành tây, gừng, quế, hồi, thảo quả",
+          "Gia vị: muối, đường, nước mắm"
+        ],
+        "instructions": [
+          "Nướng hành tây và gừng cho thơm rồi cho vào nồi hầm cùng xương bò.",
+          "Hầm xương bò khoảng 1 giờ để lấy nước dùng.",
+          "Lọc nước dùng, thêm gia vị vừa ăn.",
+          "Trụng bánh phở, xếp ra bát cùng thịt bò thái lát mỏng.",
+          "Chan nước dùng nóng lên và thưởng thức với rau thơm."
+        ],
+        "nutrition": {
+          "calories": 450,
+          "protein": 30,
+          "carbs": 40,
+          "fat": 15
+        },
+        "video": "https://www.youtube.com/embed/Ff1M-wNDG28",
+        "id": 100
+      }
+    ]
