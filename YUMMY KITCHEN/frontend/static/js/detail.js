@@ -75,40 +75,29 @@ function shuffleArray(array) {
 
 function displaySuggestions(recipes, currentRecipe) {
   const suggested = document.getElementById("suggested");
-  suggested.innerHTML = "";
+  suggested.innerHTML = ""; 
+  // Lọc 
+  const sameCategoryRecipes = recipes.filter(r => r.category === currentRecipe.category && r.id !== currentRecipe.id);
+  const differentCategoryRecipes = recipes.filter(r => r.category !== currentRecipe.category && r.id !== currentRecipe.id);
 
-  const sameCategoryRecipes = recipes.filter(r => 
-    r.category === currentRecipe.category && r.id !== currentRecipe.id
-  );
-
-  const differentCategoryRecipes = recipes.filter(r => 
-    r.category !== currentRecipe.category && r.id !== currentRecipe.id
-  );
-
-  let selectedSuggestions = [];
-
-  if (sameCategoryRecipes.length >= 3) {
-    selectedSuggestions = shuffleArray(sameCategoryRecipes).slice(0, 3);
-  } else {
-    selectedSuggestions = shuffleArray(sameCategoryRecipes);
-    const missing = 3 - selectedSuggestions.length;
-    selectedSuggestions = selectedSuggestions.concat(shuffleArray(differentCategoryRecipes).slice(0, missing));
-  }
+  const selectedSuggestions = [
+    ...shuffleArray(sameCategoryRecipes).slice(0, 2),
+    ...shuffleArray(differentCategoryRecipes).slice(0, 1)
+  ];
 
   selectedSuggestions.forEach(recipe => {
-    const div = document.createElement("div");
-    div.className = "flex gap-3";
-
-    div.innerHTML = `
-      <img src="${recipe.image}" alt="${recipe.title}" class="w-20 h-20 object-cover rounded">
-      <div>
-        <h4 class="font-semibold text-base">${recipe.title}</h4>
-        <a href="detail.html?id=${recipe.id}" class="text-orange-500 text-sm hover:underline">Xem chi tiết</a>
+    suggested.innerHTML += `
+      <div class="flex gap-3">
+        <img src="${recipe.image}" alt="${recipe.title}" class="w-20 h-20 object-cover rounded">
+        <div>
+          <h4 class="font-semibold text-base">${recipe.title}</h4>
+          <a href="detail.html?id=${recipe.id}" class="text-orange-500 text-sm hover:underline">Xem chi tiết</a>
+        </div>
       </div>
     `;
-    suggested.appendChild(div);
   });
 }
+
 
 (async () => {
   const id = getRecipeIdFromURL();

@@ -1,211 +1,39 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Yummy Kitchen</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"></link>
-  <link rel="icon" type="image/png" href="../../react-app/src/ảnh/logo_Yummykitchen.jpg"/>
-  <link rel="stylesheet" href="../../static/css/admin/admin.css" />
+  <meta charset="UTF-8">
+  <title>Tùy chỉnh giao diện</title>
+  <link rel="stylesheet" href="../../static/css/admin/admin.css">
 </head>
-<body class="bg-white text-gray-800">
-  <nav class="flex items-center justify-between py-4 px-8 border-b bg-white relative">
-    <div class="flex items-center gap-x-4">
-      <a href="../../templates/Home/home.html" class="text-2xl font-bold whitespace-nowrap">
-        Yummy<span class="text-orange-500">Kitchen</span>
-      </a>
-      <div class="relative">
-        <input type="text" class="border rounded-full py-1 px-3 pl-10 focus:outline-none focus:ring-2 focus:ring-orange-500" placeholder="Tìm kiếm...">
-        <i class="fas fa-search absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-500"></i>
-      </div></div>
-    <div class="absolute left-1/2 transform -translate-x-1/2 hidden md:flex space-x-6 items-center text-gray-800 font-medium">
-      <a href="../../templates/Home/home.html" class="hover:text-orange-500">Trang Chủ</a>
-      <div class="relative group">
-        <button onclick="toggleMenu('subMenuCongThuc')" class="flex items-center space-x-1 hover:text-orange-500 focus:outline-none">
-          <span>Công Thức</span>
-          <img src="https://protectcoyotevalley.org/wp-content/uploads/intense-cache/icons/plugin/font-awesome/angle-right.svg" class="w-3 h-3 mt-1" />
-        </button>
-        <div id="subMenuCongThuc" class="absolute left-0 mt-2 w-64 bg-white shadow-xl border rounded-md p-4 hidden z-10">
-          <ul class="space-y-2">
-            <li><a href="../../templates/Home/list_tonghop.html" class="block hover:text-orange-500">Món ăn của Bếp</a></li>
-            <li><a href="monan_cuaban.html" class="block hover:text-orange-500">Món ăn của Bạn</a></li>
-          </ul>
-        </div>
-      </div>
-      <a href="../../templates/Home/blog.html" class="hover:text-orange-500">Blog</a>
-      <a href="../../templates/Home/contact.html" class="hover:text-orange-500">Liên hệ</a>
-      <a href="#" class="hover:text-orange-500">Về Chúng Tôi</a>
-      <div class="relative group">
-        <button onclick="toggleMenu('subMenuTheLoai')" class="flex items-center space-x-1 hover:text-orange-500 focus:outline-none">
-          <span>Thể loại</span>
-          <img src="https://protectcoyotevalley.org/wp-content/uploads/intense-cache/icons/plugin/font-awesome/angle-right.svg" class="w-3 h-3 mt-1" />
-        </button>
-        <div id="subMenuTheLoai" class="absolute left-0 mt-2 w-64 bg-white shadow-xl border rounded-md p-4 hidden z-10 max-h-96 overflow-y-auto">
-          <ul class="space-y-2">
-            <li><a href="buasang.html" class="block hover:text-orange-500">Bữa Sáng</a></li>
-            <li><a href="buatra.html" class="block hover:text-orange-500">Bữa Trưa</a></li>
-            <li><a href="buatoi.html" class="block hover:text-orange-500">Bữa Tối</a></li>
-            <li><a href="monchay.html" class="block hover:text-orange-500">Món Chay</a></li>
-            <li><a href="monman.html" class="block hover:text-orange-500">Món Mặn</a></li>
-            <li><a href="trangmieng.html" class="block hover:text-orange-500">Tráng Miệng</a></li>
-            <li><a href="monhealthy.html" class="block hover:text-orange-500">Món Healthy</a></li>
-            <li><a href="anvat.html" class="block hover:text-orange-500">Ăn Vặt</a></li>
-            <li><a href="haisan.html" class="block hover:text-orange-500">Hải Sản</a></li>
-            <li><a href="dochien.html" class="block hover:text-orange-500">Đồ Chiên</a></li>
-            <li><a href="monnuong.html" class="block hover:text-orange-500">Món Nướng</a></li>
-            <li><a href="monlau.html" class="block hover:text-orange-500">Món Lẩu</a></li>
-            <li><a href="monhan.html" class="block hover:text-orange-500">Món Hàn</a></li>
-            <li><a href="monnhat.html" class="block hover:text-orange-500">Món Nhật</a></li>
-            <li><a href="monchauau.html" class="block hover:text-orange-500">Món Châu Âu</a></li>
-            <li><a href="nuoc.html" class="block hover:text-orange-500">Nước</a></li>
-            <li><a href="tonghop.html" class="block hover:text-orange-500">Tổng hợp</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-    <div class="hidden md:flex items-center space-x-4">
-      <div class="flex space-x-4">
-        <a href="#" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
-          <i class="fab fa-facebook-f text-gray-700"></i>
-        </a>
-        <a href="#" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
-          <i class="fab fa-twitter text-gray-700"></i>
-        </a>
-        <a href="#" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
-          <i class="fab fa-instagram text-gray-700"></i>
-        </a>
-      </div>
-      <a href="../../templates/DangNhap/login.html" class="w-8 h-8 rounded-full bg-gray-200 flex items-center justify-center hover:ring-2 hover:ring-orange-400">
-        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 text-gray-700" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-            d="M5.121 17.804A9 9 0 0112 15a9 9 0 016.879 2.804M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-        </svg>
-      </a>
-    </div>
-  </nav>
-
-
+<body>
   <div class="container">
-    <h1 class="text-4xl font-bold text-center text-orange-500 mt-2 mb-10">Thêm Công Thức Mới</h1>
-    <form id="recipeForm">
-      <div class="form-grid">
-        <!-- Cột trái -->
-        <div class="left-column">
-          <div class="input-group">
-            <label for="tenMonAn">Tên món ăn</label>
-            <input type="text" id="tenMonAn" name="tenMonAn" required>
-          </div>
+    <h2>Tùy chỉnh giao diện</h2>
 
-          <div class="input-group">
-            <label for="tacGia">Tác giả</label>
-            <input type="text" id="tacGia" name="tacGia" required>
-          </div>
-
-          <div class="input-group">
-            <label for="thoiGianNau">Thời gian nấu (phút)</label>
-            <input type="number" id="thoiGianNau" name="thoiGianNau" required>
-          </div>
-
-          <div class="input-group">
-            <label for="khau-phan-an">Khẩu phần ăn</label>
-            <select id="khau-phan-an" name="khau-phan-an">
-                <option value="">-- Chọn khẩu phần --</option>
-                <option value="1">1 người</option>
-                <option value="2">2 người</option>
-                <option value="3">3 người</option>
-                <option value="4">4 người</option>
-                <option value="5">5 người</option>
-                <option value="6">6 người</option>
-                <option value="7">7 người</option>
-                <option value="8">8 người</option>
-                <option value="9">9 người</option>
-                <option value="10">10 người</option>
-            </select>
-        </div>
-        
-        <div class="input-group">
-            <label for="phan-loai">Phân loại</label>
-            <select id="phan-loai" name="phan-loai">
-                <option value="">-- Chọn phân loại --</option>
-                <option value="Bữa Sáng">Bữa Sáng</option>
-                <option value="Bữa Trưa">Bữa Trưa</option>
-                <option value="Bữa Tối">Bữa Tối</option>
-                <option value="Món Chay">Món Chay</option>
-                <option value="Món Mặn">Món Mặn</option>
-                <option value="Tráng Miệng">Tráng Miệng</option>
-                <option value="Món Healthy">Món Healthy</option>
-                <option value="Ăn Vặt">Ăn Vặt</option>
-                <option value="Hải Sản">Hải Sản</option>
-                <option value="Đồ Chiên">Đồ Chiên</option>
-                <option value="Món Nướng">Món Nướng</option>
-                <option value="Món Lẩu">Món Lẩu</option>
-                <option value="Món Hàn">Món Hàn</option>
-                <option value="Món Nhật">Món Nhật</option>
-                <option value="Món Châu Âu">Món Châu Âu</option>
-                <option value="Nước">Nước</option>
-            </select>
-        </div>
-        
-
-          <div class="input-group">
-            <label for="linkHinhAnh">Link hình ảnh</label>
-            <input type="url" id="linkHinhAnh" name="linkHinhAnh">
-          </div>
-          <div class="input-group">
-            <label for="linkVideo">Link video hướng dẫn</label>
-            <input type="url" id="linkVideo" name="linkVideo">
-          </div>
-
-        </div>
-
-        <!-- Cột phải -->
-        <div class="right-column">
-          <div class="input-group">
-            <label for="moTa">Mô tả món ăn</label>
-            <textarea id="moTa" name="moTa" rows="5" required></textarea>
-          </div>
-
-
-          <div class="nutrition-info">
-            <h3>Thông tin dinh dưỡng</h3>
-
-            <div class="input-group">
-              <label for="calo">Calo</label>
-              <input type="number" id="calo" name="calo">
-            </div>
-
-            <div class="input-group">
-              <label for="protein">Protein (g)</label>
-              <input type="number" id="protein" name="protein">
-            </div>
-
-            <div class="input-group">
-              <label for="carbs">Carbs (g)</label>
-              <input type="number" id="carbs" name="carbs">
-            </div>
-
-            <div class="input-group">
-              <label for="fat">Fat (g)</label>
-              <input type="number" id="fat" name="fat">
-            </div>
-          </div>
-        </div>
+    <form action="/save-settings" method="POST" enctype="multipart/form-data">
+      <div class="form-group">
+        <label for="logo">Cập nhật Logo</label>
+        <input type="file" id="logo" name="logo">
       </div>
 
-      <div class="submit-btn">
-        <button type="submit">Thêm Công Thức</button>
+      <div class="form-group">
+        <label for="banner">Cập nhật Banner</label>
+        <input type="file" id="banner" name="banner">
+      </div>
+
+      <div class="form-group">
+        <label for="themeColor">Màu chủ đề</label>
+        <input type="color" id="themeColor" name="themeColor" value="#4CAF50">
+      </div>
+
+      <div class="form-group toggle">
+        <input type="checkbox" id="enableComments" name="enableComments" checked>
+        <label for="enableComments">Bật tính năng bình luận</label>
+      </div>
+
+      <div class="form-group">
+        <button type="submit">Lưu thay đổi</button>
       </div>
     </form>
   </div>
-
-
-
-  <footer class="bg-white border-t py-6 text-center text-sm text-gray-500">
-    © 2025 YummyKitchen. Tất cả bản quyền được bảo lưu.
-  </footer>
-  </section>
-  <script src="../../static/js/admin/admin.js"></script>
-  </body>
-  </html>
+</body>
+</html>
